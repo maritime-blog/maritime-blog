@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:maritime-blog/maritime-blog.github.io.git
+	branch = master
