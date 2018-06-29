@@ -151,13 +151,13 @@ paginate = 10
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "Falta só você"
+    subtitle = "Venha fazer parte dessa comunidade! Todos temos algo a dizer."
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "Entre em Contato"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.

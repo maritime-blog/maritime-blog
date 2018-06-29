@@ -27,3 +27,8 @@
     right: 11px;
     bottom: 10px;
 }
+
+/*Section of the home page*/
+.bar.background-pentagon {
+	border: none;
+}
