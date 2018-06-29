@@ -1,0 +1,19 @@
+.home-carousel {
+  background-color: white;
+  background: url(../img/maritime-blog/carrousel-background-img.jpg) center center repeat;
+  background-size: cover;
+}
+
+.home-carousel .dark-mask {
+  opacity: 0.7;
+}
+
+/*Categorias - Navegação em blog*/
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#heading-breadcrumbs + .col-md-3 {
+  float: right;
+}
