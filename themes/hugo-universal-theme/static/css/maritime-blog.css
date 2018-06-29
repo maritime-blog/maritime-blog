@@ -9,7 +9,7 @@
 }
 
 /*Categorias - Navegação em blog*/
-.nav {
+.panel-body > .nav-stacked {
   display: flex;
   flex-wrap: wrap;
 }
