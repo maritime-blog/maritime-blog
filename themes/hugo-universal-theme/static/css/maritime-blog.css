@@ -17,3 +17,13 @@
 #heading-breadcrumbs + .col-md-3 {
   float: right;
 }
+
+.testimonials .item .testimonial .name-picture {
+	position: absolute;
+}
+
+.testimonials .item .testimonial .bottom .icon {
+	  position: relative;
+    right: 11px;
+    bottom: 10px;
+}
