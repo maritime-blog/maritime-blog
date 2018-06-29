@@ -2,7 +2,7 @@ baseurl = "https://maritime-blog.github.io/"
 title = "Maritime Blog"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
-languageCode = "en-us"
+languageCode = "pt-br"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "pt-br"
 # Enable comments by entering your Disqus shortname
