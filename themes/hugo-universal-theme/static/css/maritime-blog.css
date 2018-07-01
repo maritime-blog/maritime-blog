@@ -38,3 +38,7 @@
 .bar.background-pentagon {
 	border: none;
 }
+
+#address {
+	display: none;
+}
