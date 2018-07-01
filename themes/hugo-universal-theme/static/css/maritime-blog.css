@@ -8,6 +8,10 @@
   opacity: 0.7;
 }
 
+.img-responsive {
+	margin: auto;
+}
+
 /*Categorias - Navegação em blog*/
 .panel-body > .nav-stacked {
   display: flex;
