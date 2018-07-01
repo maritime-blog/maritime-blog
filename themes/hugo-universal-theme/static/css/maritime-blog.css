@@ -42,3 +42,9 @@
 #address {
 	display: none;
 }
+
+/*Sidebar*/
+.sidebar {
+	max-width: 720px;
+	margin: auto;
+}
