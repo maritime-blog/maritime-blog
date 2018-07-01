@@ -1,3 +1,8 @@
+:root {
+	--ship-primary-color: #191919;
+	--ship-sec-color: #b61212;
+}
+
 .home-carousel {
   background-color: white;
   background: url(../img/maritime-blog/carrousel-background-img.jpg) center center repeat;
@@ -43,8 +48,21 @@
 	display: none;
 }
 
-/*Sidebar*/
+/*Blog Sidebar*/
 .sidebar {
 	max-width: 720px;
 	margin: auto;
+}
+
+#top {
+	background-color: var(--ship-primary-color);
+}
+
+#footer {
+	background-color: var(--ship-primary-color);
+}
+
+#copyright {
+	background-color: var(--ship-sec-color);
+	padding: 15px; 
 }
