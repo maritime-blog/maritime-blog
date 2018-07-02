@@ -58,6 +58,11 @@
 	background-color: var(--ship-primary-color);
 }
 
+.bar.background-image-fixed-2 {
+	background: url(../img/maritime-blog/fixed-backgroud.jpg);
+	background-size: cover;
+}
+
 #footer {
 	background-color: var(--ship-primary-color);
 }
