@@ -23,7 +23,7 @@ paginate = 10
     weight = 1
 
 [[menu.main]]
-    name = "Blog"
+    name = "Artigos"
     url  = "/blog/"
     weight = 2
 
@@ -34,7 +34,7 @@ paginate = 10
     weight = 3
 
 [[menu.main]]
-    name = "Contact"
+    name = "Contatos"
     url  = "/contact/"
     weight = 4
 
@@ -66,7 +66,7 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
+    author = "Lucas Araújo"
     defaultKeywords = ["devows", "hugo", "go"]
     defaultDescription = "Comunidade feita por marítimos para marítimos."
 
@@ -91,7 +91,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "your@email.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Somos uma comunidade feita por marítimos para marítimos.</p>"
     copyright = "Copyright (c) 2018, maritime-blog; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -111,7 +111,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-xs"><i>Feito com S2 para toda a comunidade mercante</i></p>
+    text = """<p class="hidden-xs">Feito com &#10084 para toda a comunidade mercante</p>
       """
 
 # Enable and disable widgets for the right sidebar
@@ -137,8 +137,8 @@ paginate = 10
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Alguns dos nossos"
+    subtitle = "Somos um site? Não. Somos pessoas, escritores, leitores, marinheiros, maquinistas, cozinheiros (até os facas-cegas), pilotos, chefes, mercantes. Somos todos marítimos!"
 
 [params.see_more]
     enable = true
@@ -152,11 +152,11 @@ paginate = 10
     enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
-    # For more informtion take a look at the README.
-    title = "Our Clients"
+    # For more information take a look at the README.
+    title = "Nossos Amigos"
     subtitle = ""
 
 [params.recent_posts]
     enable = true
-    title = "Rádio blog!"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Artigos"
+    subtitle = "Aqui você encontra os assuntos mais relevantes para o meio marítimo. Convidamos todos a participar dessa comunidade, seja escrevendo ou opinando. Vamos contruir uma ferramenta completa para tornar o mar um lugar melhor e mais seguro para todos nós."
