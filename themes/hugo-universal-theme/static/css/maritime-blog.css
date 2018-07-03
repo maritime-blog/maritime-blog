@@ -33,6 +33,7 @@
 	display: flex;
 	flex-direction: row;
 	flex: 1 0 auto;
+	flex-wrap: wrap;
 	justify-content: center;
 }
 
@@ -40,7 +41,7 @@
   width: 70px;
   height: 70px;
   border-radius: 50%;
-	margin: 0 25px;
+	margin: 10px 25px;
 }
 
 .ours-image {
