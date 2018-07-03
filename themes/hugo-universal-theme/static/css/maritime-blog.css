@@ -1,6 +1,6 @@
 :root {
-	--ship-primary-color: #303030;
-	--ship-sec-color: #b61212;
+	--ship-primary-color: #333;
+	--ship-sec-color: #ce2828;
 }
 
 .home-carousel {
@@ -63,6 +63,14 @@
 	background-size: cover;
 }
 
+.testimonials .item .testimonial {
+	height: 0 !important;
+}
+
+.testimonials .item .testimonial .text{
+	display: none;
+}
+
 #footer {
 	background-color: var(--ship-primary-color);
 }
@@ -71,3 +79,4 @@
 	background-color: var(--ship-sec-color);
 	padding: 15px; 
 }
+
