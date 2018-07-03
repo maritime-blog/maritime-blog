@@ -58,6 +58,16 @@
 	filter: grayscale(0);
 }
 
+.customers .item img {
+	background-color: lightskyblue;
+}
+
+@media (min-width: 720px) {
+	.customers .item img {
+		min-width: 250px;
+	}
+}
+
 .testimonials .item .testimonial .name-picture {
 	position: absolute;
 }
