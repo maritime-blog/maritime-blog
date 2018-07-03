@@ -4,13 +4,13 @@
 }
 
 .home-carousel {
-  background-color: white;
-  background: url(../img/maritime-blog/carrousel-background-img.jpg) center center repeat;
-  background-size: cover;
+	background-color: white;
+	background: url(../img/maritime-blog/carrousel-background-img.jpg) center center repeat;
+	background-size: cover;
 }
 
 .home-carousel .dark-mask {
-  opacity: 0.7;
+	opacity: 0.7;
 }
 
 .img-responsive {
@@ -19,14 +19,43 @@
 
 /*Categorias - Navegação em blog*/
 .panel-body > .nav-stacked {
-  display: flex;
-  flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 @media (min-width: 992px) {
 	#heading-breadcrumbs + .col-md-3 {
-  	float: right;
+		float: right;
 	}
+}
+
+.ours {
+	display: flex;
+	flex-direction: row;
+	flex: 1 0 auto;
+	justify-content: center;
+}
+
+.ours-image-wrapper {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+	margin: 0 25px;
+}
+
+.ours-image {
+	width: inherit;
+	height: inherit;
+	border-radius: inherit;
+	box-shadow: 2px 3px 3px grey;
+	filter: grayscale(1);
+	transition: all .2s;
+}
+
+.ours-image:hover {
+	width: 100px;
+	height: 100px;
+	filter: grayscale(0);
 }
 
 .testimonials .item .testimonial .name-picture {
@@ -34,9 +63,9 @@
 }
 
 .testimonials .item .testimonial .bottom .icon {
-	  position: relative;
-    right: 11px;
-    bottom: 10px;
+	position: relative;
+	right: 11px;
+	bottom: 10px;
 }
 
 /*Section of the home page*/

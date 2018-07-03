@@ -1,0 +1,38 @@
+{{ if isset .Site.Params "ours" }}
+{{ if .Site.Params.ours.enable }}
+{{ if gt (len .Site.Data.ours) 0 }}
+<section class="bar background-pentagon no-mb">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="heading text-center">
+          <h2>{{ .Site.Params.ours.title }}</h2>
+        </div>
+
+        <p class="lead">
+          {{ .Site.Params.ours.subtitle | markdownify }}
+        </p>
+
+        <!-- *** ours CAROUSEL *** -->
+
+        <div class="ours">
+          {{ range .Site.Data.ours }}
+            <a href="{{ .url }}">
+              <div class="ours-image-wrapper">
+                <img class="ours-image" alt="" src="{{ .avatar | absURL }}">
+              </div>
+            </a>
+          {{ end }}
+        </div>
+        <!-- /.-->
+
+        <!-- *** ours CAROUSEL END *** -->
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}

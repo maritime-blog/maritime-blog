@@ -133,11 +133,16 @@ paginate = 10
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    title = "Alguns dos nossos"
+    title = ""
+    subtitle = ""
+
+[params.ours]
+    enable = true
+     title = "Alguns dos nossos"
     subtitle = "Somos um site? Não. Somos pessoas, escritores, leitores, marinheiros, maquinistas, cozinheiros (até os facas-cegas), pilotos, chefes, mercantes. Somos todos marítimos!"
 
 [params.see_more]
