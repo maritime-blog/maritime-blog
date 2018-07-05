@@ -12,8 +12,6 @@ banner: /img/banners/13668-npbiq5.jpg
 ---
 # **Blalalalla**
 
-
-
 Testando essa porra. 
 
 ```
@@ -26,4 +24,4 @@ isijaisjdijaidjaisjdiajsdiajsdijaisdjiajasdasdasdasdasd
 
 ## Imagem
 
-![](/img/banners/banner-4.jpg)
+![null](/img/banners/banner-4.jpg)
