@@ -64,6 +64,4 @@ collections:
         file: "content/faq.md" # The path to the folder where the documents are stored
         fields: # The fields for each document, usually in front matter
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "list"}
-          - {label: "Keywords", name: "keywords", widget: "list"}
           - {label: "Body", name: "body", widget: "markdown"}
