@@ -1,4 +1,4 @@
-baseurl = "https://maritime-blog.github.io/"
+baseurl = "https://elastic-hypatia-8a3eed.netlify.com/"
 title = "Maritime Blog"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
