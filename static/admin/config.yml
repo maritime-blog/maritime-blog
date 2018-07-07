@@ -24,6 +24,7 @@ collections:
   - name: "carousel" # Used in routes, e.g., /admin/collections/blog
     label: "Carousel" # Used in the UI
     folder: "data/carousel" # The path to the folder where the documents are stored
+    extension: "yaml"
     create: false # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
@@ -33,6 +34,7 @@ collections:
   - name: "features" # Used in routes, e.g., /admin/collections/blog
     label: "Features" # Used in the UI
     folder: "data/features" # The path to the folder where the documents are stored
+    extension: "yaml"
     create: false # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
@@ -43,6 +45,7 @@ collections:
   - name: "testimonials" # Used in routes, e.g., /admin/collections/blog
     label: "Testimonials" # Used in the UI
     folder: "data/testimonials" # The path to the folder where the documents are stored
+    extension: "yaml"
     create: false # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
