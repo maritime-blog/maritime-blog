@@ -1,6 +1,17 @@
 :root {
-	--ship-primary-color: #333;
-	--ship-sec-color: #ce2828;
+	--color-darker: #333;
+	--color-darker: #181818;
+	--font-color: #333;
+	
+	--base-color: #4FBFA8;
+	--color-lighter: #90CABE;
+	--color-lighter-two: #3A8C7B;
+	--color-darker: #2D3F3C;
+	--color-darker-two: #1A3F38;
+}
+
+.navbar ul.nav > li > a {
+  text-decoration: none; 
 }
 
 .home-carousel {
@@ -107,7 +118,7 @@
 }
 
 #top {
-	background-color: var(--ship-primary-color);
+	background-color: var(--color-darker);
 }
 
 .bar.background-image-fixed-2 {
@@ -124,11 +135,19 @@
 }
 
 #footer {
-	background-color: var(--ship-primary-color);
+	background-color: white;
+}
+
+#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
+    color: var(--font-color);
+}
+
+#footer .blog-entries .item .name h5 a {
+	color: var(--base-color);
 }
 
 #copyright {
-	background-color: var(--ship-sec-color);
+	background-color: var(--color-darker);
 	padding: 15px; 
 }
 
