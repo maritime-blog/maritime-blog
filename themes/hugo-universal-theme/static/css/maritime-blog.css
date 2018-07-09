@@ -116,6 +116,11 @@
 	display: none;
 }
 
+/*Blogs*/
+#content img {
+    width: 100%;
+}
+
 /*Blog Sidebar*/
 .sidebar {
 	max-width: 720px;
