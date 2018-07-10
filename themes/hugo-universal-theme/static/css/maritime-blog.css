@@ -97,16 +97,6 @@
 	}
 }
 
-.testimonials .item .testimonial .name-picture {
-	position: absolute;
-}
-
-.testimonials .item .testimonial .bottom .icon {
-	position: relative;
-	right: 11px;
-	bottom: 10px;
-}
-
 /*Section of the home page*/
 .bar.background-pentagon {
 	border: none;
@@ -140,12 +130,24 @@
 	filter: brightness(1.5) saturate(1.4);
 }
 
+/*Remove testimonials and adjust height*/
+/*
 .testimonials .item .testimonial {
 	height: 0 !important;
+}*/
+
+/*.testimonials .item .testimonial .text{
+	display: none;
+}*/
+
+.testimonials .item .testimonial .name-picture {
+	position: absolute;
 }
 
-.testimonials .item .testimonial .text{
-	display: none;
+.testimonials .item .testimonial .bottom .icon {
+	position: relative;
+	right: 11px;
+	bottom: 10px;
 }
 
 #footer {
