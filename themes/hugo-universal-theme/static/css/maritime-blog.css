@@ -29,8 +29,8 @@
 }
 
 .home-carousel .dark-mask {
-	background: linear-gradient(to left, black, transparent);
-	opacity: 0.7;
+	background: linear-gradient(to right, black, transparent);
+	opacity: 0.5;
 }
 
 .home-carousel .right {
@@ -40,7 +40,6 @@
 @media (max-width: 767px) {
 	.home-carousel .dark-mask {
 		background: linear-gradient(to bottom, transparent, black, transparent);
-		opacity: 0.7;
 	}
 
 	.home-carousel .right {
