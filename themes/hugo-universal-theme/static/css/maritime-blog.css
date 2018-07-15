@@ -187,6 +187,25 @@
 	color: var(--base-color);
 }
 
+#mc_embed_signup {
+	background:#fff;
+	clear:left;
+	font:14px Helvetica,Arial,sans-serif;
+	width:100%;
+	position: sticky;
+  bottom: 0;
+	z-index: 1;
+}
+
+.mc_position_static {
+	position: static;
+}
+
+#mc_embed_signup .mce-close {
+	position: absolute;
+  left: 90%;
+}
+ 
 #copyright {
 	background-color: var(--color-darker);
 	padding: 15px; 
