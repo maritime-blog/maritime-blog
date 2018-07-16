@@ -187,7 +187,7 @@
 	color: var(--base-color);
 }
 
-#mc_embed_signup {
+#footer_mailChimp {
 	background:#fff;
 	clear:left;
 	font:14px Helvetica,Arial,sans-serif;
@@ -201,11 +201,12 @@
 	position: static;
 }
 
-#mc_embed_signup .mce-close {
-	position: absolute;
-  left: 90%;
+#footer_mailChimp #mce-close {
+	display: initial;
+	float: right;
+	margin-right: 10px;
 }
- 
+
 #copyright {
 	background-color: var(--color-darker);
 	padding: 15px; 
