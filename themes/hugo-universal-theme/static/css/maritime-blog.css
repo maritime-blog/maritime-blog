@@ -1,13 +1,11 @@
 :root {
-	--color-darker: #333;
-	--color-darker: #181818;
 	--font-color: #333;
 	
-	--base-color: #4FBFA8;
-	--color-lighter: #90CABE;
-	--color-lighter-two: #3A8C7B;
-	--color-darker: #2D3F3C;
-	--color-darker-two: #1A3F38;
+	--base-color: #38A7BB;
+	--color-lighter: #76BAC6;
+	--color-lighter-two: #297988;
+	--color-darker: #12353B;
+	--color-darker-two: #24383B;
 }
 
 .navbar ul.nav > li > a {
@@ -16,7 +14,7 @@
 
 .navbar-brand > img {
 	height: 45px;
-	filter: hue-rotate(155deg);
+	filter: hue-rotate(175deg);
 }
 
 .home-carousel {
