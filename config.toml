@@ -24,18 +24,18 @@ paginate = 10
 
 [[menu.main]]
     name = "Artigos"
-    url  = "/blog/"
+    url  = "/artigos/"
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Nossa Visão"
+    identifier = "Visao"
+    url  = "/visao/"
     weight = 3
 
 [[menu.main]]
     name = "Contatos"
-    url  = "/contact/"
+    url  = "/contatos/"
     weight = 4
 
 # Top bar social links menu
@@ -106,7 +106,7 @@ paginate = 10
     # longitude = "-77.028333"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/artigos/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
