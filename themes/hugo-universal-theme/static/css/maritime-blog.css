@@ -13,8 +13,14 @@
 }
 
 .navbar-brand > img {
-	height: 45px;
-	filter: hue-rotate(175deg);
+	height: 35px;
+	margin-top: 7px;
+}
+
+@media (max-width: 767px) {
+	.navbar-brand > img {
+		height: 30px;
+	}
 }
 
 .home-carousel {
