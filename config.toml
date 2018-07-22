@@ -147,7 +147,7 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-hand-o-down"
     title = "Falta só você"
     subtitle = "Venha fazer parte dessa comunidade! Todos temos algo a dizer."
     link_url = "#"
