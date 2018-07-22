@@ -142,7 +142,7 @@ paginate = 10
 
 [params.ours]
     enable = false
-     title = "Alguns dos nossos"
+    title = "Alguns dos nossos"
     subtitle = "Somos um site? Não. Somos pessoas, escritores, leitores, marinheiros, maquinistas, cozinheiros (até os facas-cegas), pilotos, chefes, mercantes. Somos todos marítimos!"
 
 [params.see_more]
@@ -154,7 +154,7 @@ paginate = 10
     link_text = "Entre em Contato"
 
 [params.clients]
-    enable = false
+    enable = true
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more information take a look at the README.

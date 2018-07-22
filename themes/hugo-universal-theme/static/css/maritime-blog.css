@@ -119,12 +119,6 @@
 	background-color: lightskyblue;
 }
 
-@media (min-width: 720px) {
-	.customers .item img {
-		min-width: 250px;
-	}
-}
-
 /*Section of the home page*/
 .bar.background-pentagon {
 	border: none;
