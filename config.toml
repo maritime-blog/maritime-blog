@@ -42,9 +42,9 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 1
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fa fa-2x fa-github'></i>"
+    name = "Instagram"
+    url = "https://www.instagram.com/radio_cipo/"
+    pre = "<i class='fa fa-2x fa-instagram'></i>"
 
 [[menu.topbar]]
     weight = 2
@@ -54,15 +54,9 @@ paginate = 10
 
 [[menu.topbar]]
     weight = 3
-    name = "Twitter"
-    url = "http://twitter.com"
-    pre = "<i class='fa fa-2x fa-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "Email"
-    url = "mailto:your@email.com"
-    pre = "<i class='fa fa-2x fa-envelope'></i>"
+    name = "Whatsapp"
+    url = ""
+    pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
