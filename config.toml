@@ -150,7 +150,7 @@ paginate = 10
     icon = "fa fa-hand-o-down"
     title = "Falta só você"
     subtitle = "Venha fazer parte dessa comunidade! Todos temos algo a dizer."
-    link_url = "#"
+    link_url = "/contatos"
     link_text = "Entre em Contato"
 
 [params.clients]
