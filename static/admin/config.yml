@@ -52,6 +52,7 @@ collections:
       - {label: "Text", name: "text", widget: "string"}
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Position", name: "position", widget: "string"}
+      - {label: "Avatar", name: "avatar", widget: "string"}
 
   - label: "Pages"
     name: "pages"
