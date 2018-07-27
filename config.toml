@@ -1,4 +1,4 @@
-baseurl = "http://www.radiocipo.com.br/"
+baseurl = "https://www.radiocipo.com.br/"
 title = "Maritime Blog"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
