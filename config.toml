@@ -49,14 +49,8 @@ paginate = 10
 [[menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "http://facebook.com"
+    url = "https://web.facebook.com/somosaradiocipo/?ref=br_rs"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Whatsapp"
-    url = ""
-    pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
 [params]
     viewMorePostLink = "/blog/"
