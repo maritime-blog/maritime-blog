@@ -77,7 +77,8 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "somosaradiocipo@gmail.com"
+    
+    # email = ""
 
     about_us = "<p>Somos uma comunidade feita por marítimos para marítimos.</p>"
     copyright = "Copyright (c) 2018, maritime-blog; all rights reserved."
