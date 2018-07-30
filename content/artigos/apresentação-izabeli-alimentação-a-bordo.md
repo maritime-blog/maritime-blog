@@ -1,11 +1,11 @@
 ---
-title: Apresentação Izabeli - Alimentação a bordo
+title: 'Alimentação a bordo - Apresentação Izabeli '
 date: '2018-07-30T16:58:10-03:00'
 tags:
   - rádio cipó
   - alimentação
   - nutrição
-  - a bordo
+  - bordo
   - embarque
   - navio
   - marinha
