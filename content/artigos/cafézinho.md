@@ -7,8 +7,9 @@ categories:
   - Nutrição
 banner: /img/banners/caffeine-coffee-cup-6347.jpg
 ---
-Olá,
-ouvintes da Rádio Cipó! Para iniciar os trabalhos, que tal começarmos falando
+![Aquele cafezinho de lei!](/img/banners/caffeine-coffee-cup-6347.jpg)
+
+Olá, ouvintes da Rádio Cipó! Para iniciar os trabalhos, que tal começarmos falando
 de um hábito muito comum a bordo? O famoso cafezinho. Depois do almoço, antes
 do serviço, no café da manhã, e em vários horários do dia, ele acaba se fazendo
 presente na rotina do marítimo. Mas você já se perguntou se o tipo de café, os
@@ -96,13 +97,9 @@ seus comentários com dúvidas e temas que tenham curiosidade, assim poderemos
 ser bem específicos e ajuda-los com os desafios alimentares de bordo. Um forte
 abraço, nos vemos em breve! Bons ventos e mares tranquilos.
 
- 
-
 Referências:
 
 ## 
-
- 
 
 1.  Alves, R., Casal, S., & Oliveira, B. (2009).
   Benefícios do café na saúde: mito ou realidade? _Quim. Nova, 32_(8),
@@ -124,5 +121,3 @@ Referências:
 
 6.  Osório, M. (2002). Fatores determinantes da anemia em
   crianças. _Jornal de Pediatria, 78_(4), 269-278.
-
- 
