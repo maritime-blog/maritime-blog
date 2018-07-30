@@ -121,6 +121,7 @@ body {
 
 .customers .item img {
 	background-color: lightskyblue;
+	max-height: 90px;
 }
 
 /*Section of the home page*/
