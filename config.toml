@@ -1,5 +1,5 @@
 baseurl = "https://www.radiocipo.com.br/"
-title = "Maritime Blog"
+title = "Rádio Cipó"
 theme = "hugo-universal-theme"
 themesDir = "./themes"
 languageCode = "pt-br"
