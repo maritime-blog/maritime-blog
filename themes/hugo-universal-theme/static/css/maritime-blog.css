@@ -183,6 +183,12 @@ body {
 	bottom: 10px;
 }
 
+.testimonials .item .testimonial .name-picture img {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
 #footer {
 	background-color: white;
 	background: url('../img/texture-bw.png') center center repeat;
