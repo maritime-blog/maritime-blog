@@ -8,9 +8,9 @@
 	--color-darker-two: #24383B;
 }
 
-/*body {
+body {
 	filter: blur(10px);
-}*/
+}
 
 .navbar ul.nav > li > a {
 	text-decoration: none; 
