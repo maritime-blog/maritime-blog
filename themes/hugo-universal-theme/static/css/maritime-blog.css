@@ -8,9 +8,9 @@
 	--color-darker-two: #24383B;
 }
 
-body {
+/*body {
 	filter: blur(10px);
-}
+}*/
 
 .navbar ul.nav > li > a {
 	text-decoration: none; 
@@ -42,7 +42,8 @@ body {
 }
 
 .home-carousel .right {
-	width: 70%;
+	width: 100%;
+  text-align: center;
 }
 
 @media (max-width: 767px) {
@@ -57,7 +58,12 @@ body {
 
 @media (min-width: 992px) {
 	.home-carousel .right {
-		text-align: left;
+		text-align: center;
+	}
+
+	.home-carousel h1 {
+    margin: 20px 0 50px 0;
+    font-size: 36px;
 	}
 }
 
