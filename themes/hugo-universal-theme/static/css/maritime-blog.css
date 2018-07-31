@@ -99,6 +99,19 @@ p {
 	}
 }
 
+.box-image-text.blog img {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.box-image-text.blog .intro {
+    text-align: left;
+    margin-bottom: 20px;
+    max-height: 200px;
+    overflow-y: hidden;
+}
+
 .ours {
 	display: flex;
 	flex-direction: row;
