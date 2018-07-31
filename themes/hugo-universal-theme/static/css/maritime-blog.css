@@ -12,9 +12,9 @@ p {
 	font-size: 1.7rem;
 }
 
-/*body {
+body {
 	filter: blur(10px);
-}*/
+}
 
 .navbar ul.nav > li > a {
 	text-decoration: none; 
