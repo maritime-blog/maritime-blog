@@ -21,3 +21,5 @@ Depois de um longo tempo de espera pela praticagem, surgiu a oportunidade de ir 
 Portanto, caros amigos, espero poder contribuir com informações, dicas, orientações e curiosidades a respeito de alimentação a bordo, que não é fácil, devido à rotina dos serviços, do “sono cortado”, das guloseimas maravilhosas preparadas pelos cozinheiros. Enfim, é uma verdadeira “doideira”! Mas, juntos, espero conseguir trazer motivação e informação para servir como o pontapé para as mudanças que vocês desejam realizar na vida de vocês, embarcados ou não.
 
 Abração, e até breve!
+
+Izabeli Ferretti
