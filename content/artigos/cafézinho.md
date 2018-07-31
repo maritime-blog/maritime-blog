@@ -35,18 +35,13 @@ Em vista disso, são infinitas as abordagens a respeito do café e seus efeitos 
 
 Deixem seus comentários com dúvidas e temas que tenham curiosidade, assim poderemos ser bem específicos e ajuda-los com os desafios alimentares de bordo. Um forte abraço, nos vemos em breve! Bons ventos e mares tranquilos.
 
-
+Izabeli Ferretti
 
 Referências:
 
-1.	Alves, R., Casal, S., & Oliveira, B. (2009). Benefícios do café na saúde: mito ou realidade? Quim. Nova, 32(8), 2169-2180.
-
-2.	Cardoso, M., & Penteado, M. (1994). Intervenções nutricionais na anemia ferropriva. Cad. Saúde Públ., 231-240.
-
-3.	Corrêa, T. (2012). Comparação da capacidade antioxidante de torras de café e seus efeitos sobre fatores de risco cardiovascular em indivíduos saudáveis. Faculdade de Saúde Pública da Universidade de São Paulo, São Paulo.
-
-4.	Encarnação, R., & Lima, D. (2003). O café e a saúde humana. Brasília: Embrapa Café.
-
-5.	Guerra, R., Bernardo, G., & Gutiérrez, C. (2000). Cafeína e esporte. Revista Brasileira Med Esporte, 6(2), 60-62.
-
-6.	Osório, M. (2002). Fatores determinantes da anemia em crianças. Jornal de Pediatria, 78(4), 269-278.
+1. Alves, R., Casal, S., & Oliveira, B. (2009). Benefícios do café na saúde: mito ou realidade? Quim. Nova, 32(8), 2169-2180.
+2. Cardoso, M., & Penteado, M. (1994). Intervenções nutricionais na anemia ferropriva. Cad. Saúde Públ., 231-240.
+3. Corrêa, T. (2012). Comparação da capacidade antioxidante de torras de café e seus efeitos sobre fatores de risco cardiovascular em indivíduos saudáveis. Faculdade de Saúde Pública da Universidade de São Paulo, São Paulo.
+4. Encarnação, R., & Lima, D. (2003). O café e a saúde humana. Brasília: Embrapa Café.
+5. Guerra, R., Bernardo, G., & Gutiérrez, C. (2000). Cafeína e esporte. Revista Brasileira Med Esporte, 6(2), 60-62.
+6. Osório, M. (2002). Fatores determinantes da anemia em crianças. Jornal de Pediatria, 78(4), 269-278.
