@@ -8,9 +8,13 @@
 	--color-darker-two: #24383B;
 }
 
-body {
-	filter: blur(10px);
+p {
+	font-size: 1.7rem;
 }
+
+/*body {
+	filter: blur(10px);
+}*/
 
 .navbar ul.nav > li > a {
 	text-decoration: none; 
@@ -33,12 +37,12 @@ body {
 	background-size: cover;
 	filter: brightness(1.6);
 
-	text-shadow: 1px 1px 8px black;
+	text-shadow: 0 0 6px black;
 }
 
 .home-carousel .dark-mask {
-	background: linear-gradient(to right, black, transparent);
-	opacity: 0.5;
+	background: black;
+	opacity: 0.3;
 }
 
 .home-carousel .right {
@@ -47,9 +51,9 @@ body {
 }
 
 @media (max-width: 767px) {
-	.home-carousel .dark-mask {
+/*	.home-carousel .dark-mask {
 		background: linear-gradient(to bottom, transparent, black, transparent);
-	}
+	}*/
 
 	.home-carousel .right {
 		width: initial;
