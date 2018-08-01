@@ -39,7 +39,7 @@ Antes de mostrar onde mora a coincidência, vou criar outra regrinha que vai ser
 
 Agora vamos definir a nova regra:
 
-> A borracha é usada para sistemas de baixa pressão e baixa temperatura, o papel é usado para todas as pressões, porém só até media temperatura e o grafite pode ser usado em todas as pressões e todas as temperaturas.
+> A borracha é usada para sistemas de baixa pressão e baixa temperatura, o papel é usado para todas as pressões, porém só até média temperatura e o grafite pode ser usado em todas as pressões e todas as temperaturas.
 
 Sabendo disso, nós entendemos a coincidência! A **borracha** normalmente é usada em **sistema de água** porque **a bordo eles são de baixa pressão e temperatura** (sistema de arrefecimento), mas nada te impede de usar uma gaxeta de papel. As redes de** óleo combustível** (alimentação) usam **média pressão**, redes de **óleo lubrificante** trabalham com **média temperatura,** assim só o uso do papel é possível. No caso do **vapor é alta temperatura**, onde **só o grafite suporta**. Então reparem que o critério de escolha não foi o fluido e sim a pressão e temperatura.
 
