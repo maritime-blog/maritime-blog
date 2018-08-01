@@ -26,7 +26,7 @@ Alex Carr, André, Bonfadini, Bruno Nunes, Camila Vieira, Coimbra, Felipe Dias, 
 
 Não podíamos deixar de agradecer imensamente também os alunos da EFOMM - Vazquez, Ricardo Jesus, Fabrício, Panno e Lucas Santos - que se empenharam demais na divulgação da nossa proposta e missão no CIAGA.
 
-Vocês são incríveis! Obrigado por fazerem parte e por serem a Rádio Cipó!
+Vocês são incríveis! Obrigado por fazerem parte e por serem a Rádio cipó!
 
 As portas estão abertas a todos ;) E mesmo que você não tenha tempo, ou não saiba com o que poderia ajudar, entre em contato conosco, queremos te escutar!
 
