@@ -19,7 +19,7 @@ tags:
   - PIRATAS
   - EVENTO
 categories:
-  - Cobertura de eventos
+  - Coberturas
 banner: /img/banners/03.png
 ---
 ![Cartaz de divulgação do evento (Imagem: https://www.egn.mar.mil.br/)](/img/banners/01.png)
