@@ -61,3 +61,5 @@ Além disso, foi mostrado pelo professor Beirão que a **Convenção das Naçõe
 Águas territoriais proclamadas pela China e Zonas Econômicas Exclusivas (ZEEs) estabelecidas na CNUDM (Imagem: BBC Brasil).
 
 O ciclo de palestras foi encerrado com a tradicional mesa de debates, onde os palestrantes tiveram a oportunidade de aprofundar alguns temas e tirar dúvidas do público presente.
+
+Vitor Stersi
