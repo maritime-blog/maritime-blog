@@ -1,7 +1,7 @@
 ---
 title: >-
-  Secretário-Geral da IMO participa de Simpósio sobre Segurança Marítima no
-  Brasil
+  Secretário-Geral da IMO vem ao Brasil e participa de Simpósio sobre Segurança
+  Marítima
 date: '2018-08-02T08:32:25-03:00'
 tags:
   - BORDO
@@ -26,7 +26,7 @@ banner: /img/banners/03.png
 
  Cartaz de divulgação do evento (Imagem: https://www.egn.mar.mil.br/).
 
-No último dia 20 de julho, o **Simpósio** ocorrido na Escola de Guerra Naval (EGN) com o tema “Segurança Marítima no Século XXI” abrangeu palestras sobre **Segurança da Navegação, Proteção Marítima, Territorialização dos Mares,** entre outros assuntos de interesse da comunidade marítima.
+No último dia 20 de julho, o **Simpósio** ocorrido na Escola de Guerra Naval (EGN) com o **tema “Segurança Marítima no Século XXI”** abrangeu palestras sobre **Segurança da Navegação, Proteção Marítima, Territorialização dos Mares,** entre outros assuntos de interesse da comunidade marítima.
 
 ![Exmo. Sr. Kitack Lim proferindo seu discurso. (Foto: Arquivo Pessoal)](/img/banners/02.png)
 
