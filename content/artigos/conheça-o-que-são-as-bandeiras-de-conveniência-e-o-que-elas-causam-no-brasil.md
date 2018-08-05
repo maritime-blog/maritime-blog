@@ -11,7 +11,6 @@ tags:
   - direito marítimo
   - bdc
   - bandeira de conveniência
-  - ''
 categories:
   - Direito Marítimo
 banner: /img/banners/pexels-photo-121598.jpeg
