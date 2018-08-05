@@ -244,3 +244,7 @@ p {
 	padding: 15px; 
 }
 
+.panel.sidebar-menu  .overflow-y{
+	max-height: 200px;
+	overflow-y: scroll;
+}
