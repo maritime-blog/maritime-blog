@@ -1,6 +1,6 @@
 ---
 title: 'O lastro de ontem, o chão de hoje'
-date: '2018-08-01T15:45:13-03:00'
+date: '2018-08-07T07:45:00-03:00'
 tags:
   - BORDO
   - EMBARQUE
