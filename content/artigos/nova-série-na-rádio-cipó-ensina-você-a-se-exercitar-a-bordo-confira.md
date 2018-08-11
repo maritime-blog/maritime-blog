@@ -54,7 +54,7 @@ Bora começar essa bagaça !!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPEJ7rCs0CY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Espero que tenham gostado da iniciativa, dos vídeos e que dêem o seu _feedback_. Como? Curta, compartilhe, faça seus comentários, deixe suas dúvidas e sugestões.
+Espero que tenham gostado da iniciativa, dos vídeos e que dêem o seu _feedback_. Como? Curta, compartilhe, faça seus comentários, deixe suas dúvidas e sugestões. E se inscreva no canal para saber em primeira mão dos novos vídeos lançados.
 
 Obrigado e até a próxima.
 
