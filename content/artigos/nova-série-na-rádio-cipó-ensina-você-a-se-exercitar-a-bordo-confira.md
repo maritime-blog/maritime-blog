@@ -1,5 +1,5 @@
 ---
-title: Treinar sem academia a bordo? É possível? Confira!
+title: Treinar sem academia a bordo? É possível? Confira na nova série de vídeos!
 date: '2018-08-11T13:51:49-03:00'
 tags:
   - Atividade física
