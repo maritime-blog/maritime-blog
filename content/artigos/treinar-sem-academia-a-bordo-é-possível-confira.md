@@ -20,7 +20,7 @@ banner: /img/banners/crossfit-exercise-fitness-28080.jpg
 ---
 Fala galera da Rádio Cipó. Vamos começar a se movimentar?!
 
-Estou há dois anos embarcando em um navio tanque que** não possui academia** e cuja a **alimentação é sempre muito pesada**. Preocupado com minha **saúde**, comecei a estudar formas de se** exercitar sem aparelhos**, de forma eficiente, como numa academia. E também pesquisei muito sobre alimentação, como **balancear minha dieta**, mesmo comendo alimentos "pesados" sempre. Nesse período, eu não consegui somente manter minha saúde e forma física, mas também de modo inesperado, consegui **melhorar e ganhar mais massa muscular**.
+Estou há dois anos embarcando em um navio tanque que **não possui academia** e cuja a **alimentação é sempre muito pesada**. Preocupado com minha **saúde**, comecei a estudar formas de se **exercitar sem aparelhos**, de forma eficiente, como numa academia. E também pesquisei muito sobre alimentação, como **balancear minha dieta**, mesmo comendo alimentos "pesados" sempre. Nesse período, eu não consegui somente manter minha saúde e forma física, mas também de modo inesperado, consegui **melhorar e ganhar mais massa muscular**.
 
 Sinceramente, **nem eu nem ninguém achava que isso era possível**. Agora, está na hora de passar para frente esse conhecimento. Quero mostrar para vocês que com **um pouco de esforço, é possível sim obter um físico melhor a bordo**.
 
@@ -40,11 +40,11 @@ Então vamos que vamos !!
 
 E aí pessoal. Curtiram nosso primeiro vídeo de introdução? Ficou curioso para saber mais né? Então continue com a gente pois agora vem aí uma solução para um grande problema que muitos marítimos relatam, na verdade dois:
 
-> Ah, eu** não tenho tempo **para fazer atividade física a bordo. Minha **rotina é muito puxada!** Além do mais, **meu navio não tem academia**. Mimimi - Vapozeiro Desconhecido
+> Ah, eu **não tenho tempo** para fazer atividade física a bordo. Minha **rotina é muito puxada!** Além do mais, **meu navio não tem academia**. Mimimi - Vapozeiro Desconhecido
 
 Já conversei com vocês no primeiro vídeo sobre **separar um tempinho todo dia** para os nossos exercícios.
 
-Agora vou mostrar como** improvisar a bordo,** **com facilidade, **ferramentas que vão ser muito, muito úteis no nosso treino:
+Agora vou mostrar como **improvisar a bordo, com facilidade,** ferramentas que vão ser muito, muito úteis no nosso treino:
 
 Bora começar essa bagaça !!
  Clica logo no link abaixo ou dê o play direto:
