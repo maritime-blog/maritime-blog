@@ -1,5 +1,5 @@
 ---
-title: Nova série na Rádio Cipó ensina você a se exercitar a bordo. Confira!
+title: Treinar sem academia a bordo? É possível? Confira!
 date: '2018-08-11T13:51:49-03:00'
 tags:
   - Atividade física
