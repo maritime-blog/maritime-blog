@@ -21,7 +21,7 @@ A Rádio Cipó tem a honra de trazer nessa data tão especial, onde muitos marí
 
 Pai, esse indivíduo que nos apoiou em todos os momentos de nossas vidas, toda a distância e a dor da partida, todo o esforço e a felicidade da volta para a casa, sinta um pouco do que é ser marítimo conosco:
 
-> Para muitos marítimos o Dia dos Pais é uma data que remete à diversidade de sentimentos. De saudades, quando estamos embarcados e distantes, de tristeza, quando não conseguimos contatos com os filhos ou de alegria quando o desembarque coincide com a referida data!
+> "Para muitos marítimos o Dia dos Pais é uma data que remete à diversidade de sentimentos. De saudades, quando estamos embarcados e distantes, de tristeza, quando não conseguimos contatos com os filhos ou de alegria quando o desembarque coincide com a referida data!
 >
 > \
 >
@@ -51,7 +51,7 @@ Pai, esse indivíduo que nos apoiou em todos os momentos de nossas vidas, toda a
 >
 > \
 >
-> Afinal, somos marítimos, e por este motivo superaremos datas como estas, assim como passamos por tempestades tendo a certeza que virá a bonança. 
+> Afinal, somos marítimos, e por este motivo superaremos datas como estas, assim como passamos por tempestades tendo a certeza que virá a bonança". 
 >
 > \
 >
