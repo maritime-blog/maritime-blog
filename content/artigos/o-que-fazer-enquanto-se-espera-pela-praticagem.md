@@ -1,6 +1,6 @@
 ---
 title: O que fazer enquanto se espera pela praticagem?
-date: '2018-07-31T11:34:57-03:00'
+date: '2018-08-14T10:00:00-03:00'
 tags:
   - BORDO
   - EMBARQUE
