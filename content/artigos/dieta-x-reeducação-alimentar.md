@@ -16,7 +16,7 @@ banner: /img/banners/picture4.jpg
 ---
 Alô Rádio Cipó!!
 
-Quem de vocês nunca se pegou olhando para o espelho e pensou, “preciso fazer uma dieta”? Mas vocês sabem o que é **dieta**? Já ouviram falar em** reeducação alimentar**? Seriam eles sinônimos? Qual a diferença? Como que faço para mudar? 
+Quem de vocês nunca se pegou olhando para o espelho e pensou, “preciso fazer uma dieta”? Mas vocês sabem o que é **dieta**? Já ouviram falar em **reeducação alimentar**? Seriam eles sinônimos? Qual a diferença? Como que faço para mudar? 
 
 Bem, vamos esclarecer alguns pontos e vocês mesmos responderão essas perguntas.
 
@@ -26,7 +26,7 @@ Analisando a educação alimentar em nosso país, observamos que o Brasil tem di
 
 ![Segurança alimentar (Foto: Google Imagens)](/img/banners/picture5.jpg)
 
-Apesar do histórico ruim, hoje em dia, a vontade de conquistar uma **melhor qualidade de vida** tem feito com que o brasileiro acorde para essa realidade e tenha vontade de mudar. Nessa hora entra a famosa reeducação alimentar. A **reeducação nada mais é que a mudança de hábitos já enraizados em nossa cultura**, que deverá ser** gradativa **e acompanhada sempre por um **nutricionista**, profissional capacitado para realizar a avaliação e orientação nutricional. Isto é, para que seja possível a realização de um plano nutricional bem-sucedido, a avaliação deve incluir os principais elementos do histórico médico do paciente, o problema atual, medidas antropométricas (estuda das medidas e dimensões das diversas partes do corpo humano), valores laboratoriais e bioquímicos, informações sobre medicamentos e outras possíveis interações entre drogas e alimentos, além de um histórico completo de alimentação e ingestão de nutrientes.
+Apesar do histórico ruim, hoje em dia, a vontade de conquistar uma **melhor qualidade de vida** tem feito com que o brasileiro acorde para essa realidade e tenha vontade de mudar. Nessa hora entra a famosa reeducação alimentar. A **reeducação nada mais é que a mudança de hábitos já enraizados em nossa cultura**, que deverá ser **gradativa** e acompanhada sempre por um **nutricionista**, profissional capacitado para realizar a avaliação e orientação nutricional. Isto é, para que seja possível a realização de um plano nutricional bem-sucedido, a avaliação deve incluir os principais elementos do histórico médico do paciente, o problema atual, medidas antropométricas (estuda das medidas e dimensões das diversas partes do corpo humano), valores laboratoriais e bioquímicos, informações sobre medicamentos e outras possíveis interações entre drogas e alimentos, além de um histórico completo de alimentação e ingestão de nutrientes.
 
 ## MUDANDO OS HÁBITOS
 
@@ -49,12 +49,6 @@ E mais uma coisa, **não podemos nos basear** em dietas completamente complexas 
 Um grande abraço à todos!
 
 Carlos Alexandre Coimbra
-
-
-
-
-
-
 
 Referências bibliográficas:
 
