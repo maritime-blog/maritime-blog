@@ -2,7 +2,7 @@
 title: >-
   Baixa oferta de vagas de cursos no Brasil leva marítimos a buscarem soluções
   no exterior: Parte I - Considerações
-date: '2018-08-11T16:39:24-03:00'
+date: '2018-08-19T08:00:00-03:00'
 tags:
   - navio
   - marinha mercante
