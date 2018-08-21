@@ -22,7 +22,7 @@ Bem, vamos esclarecer alguns pontos e vocês mesmos responderão essas perguntas
 
 Dieta segundo o dicionário, é um regime alimentar restrito ou a abstenção de determinados alimentos, no caso de doença. Mas **toda e qualquer rotina alimentar é considerada uma dieta**, ou seja, o conjunto de alimentos e bebidas ingeridos usualmente pelo indivíduo. A dieta pode ser equilibrada, desequilibrada, boa, ruim, restrita ou qualquer outro adjetivo, mas todos temos um tipo de dieta, a palavra **não está necessariamente vinculada a redução de peso**, como usualmente é associada. Portanto, não tenham medo da palavra dieta! Mas saibam, não existe dieta milagrosa!
 
-Analisando a educação alimentar em nosso país, observamos que o Brasil tem diferentes culturas espalhadas por todo o seu território. Dentro dessas culturas, notamos diversos alimentos e preparações características de cada região e isso não é um aspecto ruim, bem como deve ser respeitado por qualquer planejamento alimentar. Entretanto, de modo geral, nós somos um povo que** não possuímos hábitos muito saudáveis desde a infância**, e por muitas vezes ainda piora durante a vida adulta, quando nos deparamos com a correria do dia a dia, trabalho, etc.
+Analisando a educação alimentar em nosso país, observamos que o Brasil tem diferentes culturas espalhadas por todo o seu território. Dentro dessas culturas, notamos diversos alimentos e preparações características de cada região e isso não é um aspecto ruim, bem como deve ser respeitado por qualquer planejamento alimentar. Entretanto, de modo geral, nós somos um povo que **não possuímos hábitos muito saudáveis desde a infância**, e por muitas vezes ainda piora durante a vida adulta, quando nos deparamos com a correria do dia a dia, trabalho, etc.
 
 ![Segurança alimentar (Foto: Google Imagens)](/img/banners/picture5.jpg)
 
@@ -38,7 +38,7 @@ Gente, **o mais importante é a mudança**, e isso só depende de nós mesmos. O
 
 ## CONSIDERAÇÕES
 
-Não tenho dúvidas que conquistar o peso ideal possa parecer muito difícil. é um enorme desafio mesmo, mas não é impossível. Mas é preciso muita força de vontade para mudar. Por exemplo, **arrancar** os alimentos indesejados como **frituras e doces **da dieta, mesmo que eles façam parte da sua rotina familiar. Portanto, seja a mudança, traga sua família e amigos juntos com você nessa mudança de hábito.
+Não tenho dúvidas que conquistar o peso ideal possa parecer muito difícil. é um enorme desafio mesmo, mas não é impossível. Mas é preciso muita força de vontade para mudar. Por exemplo, **arrancar** os alimentos indesejados como **frituras e doces** da dieta, mesmo que eles façam parte da sua rotina familiar. Portanto, seja a mudança, traga sua família e amigos juntos com você nessa mudança de hábito.
 
 ![Prato saudável (Foto: Google Imagens)](/img/banners/picture1.jpg)
 
