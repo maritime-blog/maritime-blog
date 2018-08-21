@@ -1,6 +1,6 @@
 ---
 title: Dieta x Reeducação Alimentar
-date: '2018-07-30T19:06:57-03:00'
+date: '2018-08-21T17:00:00-03:00'
 tags:
   - ALIMENTAÇÃO
   - BORDO
