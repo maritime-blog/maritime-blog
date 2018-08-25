@@ -1,5 +1,5 @@
 ---
-title: 'Aposentadoria: Trabalhador Marítimo - Conheça seus Direitos'
+title: 'Aposentadoria: Trabalhador marítimo, conheça seus Direitos'
 date: '2018-08-26T09:00:00-03:00'
 tags:
   - APOSENTAR
