@@ -1,6 +1,6 @@
 ---
 title: Desafios do Amanhã
-date: '2018-08-11T13:50:00-03:00'
+date: '2018-08-25T10:00:00-03:00'
 tags:
   - BORDO
   - DINHEIRO
