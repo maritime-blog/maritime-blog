@@ -32,7 +32,13 @@ A decisão, por maioria dos Ministros, considerou que os **dois privilégios** s
 ## Afinal, como ficou definido?
 
 * Os marítimos que se **aposentaram até 16 de dezembro de 1998** obtiveram a contagem na forma do **ano marítimo.**
+
+
+
 * Os marítimos que **iniciaram seu labor antes de 1998** e permaneceram trabalhando após a Emenda Constitucional nº 20, de dezembro de 1998, **são e serão contemplados pela acumulação da contagem de tempo de contribuição do ano marítimo e do tempo especial**, mediante **comprovação do PPP**.
+
+
+
 * Os marítimos que **iniciaram o seu labor após 16 de dezembro de 1998**, **não terão direito** à contagem do **ano marítimo**, mas são enquadrados em contagem de tempo para **aposentadoria especial**, mediante **comprovação do PPP**.
 
 ## Dica de ouro
