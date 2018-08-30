@@ -1,6 +1,6 @@
 ---
 title: Você conhece o Dia do Sonho?
-date: '2018-08-29T16:01:34-03:00'
+date: '2018-08-30T19:00:00-03:00'
 tags:
   - CIAGA
   - EFOMM
