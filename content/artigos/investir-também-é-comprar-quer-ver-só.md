@@ -17,7 +17,7 @@ categories:
   - Investimento
 banner: /img/banners/adult-beautiful-clothes-291762.jpg
 ---
-Quando a gente conversa com alguém que entende um pouco mais de finanças, é do nosso impulso perguntar logo “Ei, tu acha que eu devia investir em quê?”, “Como faz essas coisas de investir ai?”. Estamos certíssimos em querer nos informar, aprender. Nós temos que ser curiosos. Quando a oportunidade de aprender está em nossa porta, a gente deixa entrar, convida para sentar no sofá e ainda oferece um cafezinho com bolo. FIQUE à vontade, oportunidade. Porém, após os questionamentos, surgem diversas variáveis como “Quanto dinheiro você tem? Qual o risco que está disposto a correr? Você tem reserva financeira de emergência? Você está em dívidas? Você tem sonhos de verdade? Você tem família? Você sabe para quê você quer investir dinheiro? E muito mais! Não é fácil controlar o dinheiro (ou controlar nós mesmo né?). Portanto, traremos aqui uma série de artigos que possa ajudar a todos ter um controle maior das finanças e uma maior compreensão da diversidade de investimentos que temos disponíveis aqui no Brasil. Lembrando que prezaremos sempre pela simplicidade da compreensão e pela aplicabilidade do conteúdo aqui escrito!
+Quando a gente conversa com alguém que entende um pouco mais de finanças, é do nosso impulso perguntar logo “Ei, tu acha que **eu devia investir em quê?**”, “**Como faz** essas coisas de investir ai?”. Estamos certíssimos em querer nos informar, aprender. Nós temos que ser curiosos. Quando a oportunidade de aprender está em nossa porta, a gente deixa entrar, convida para sentar no sofá e ainda oferece um [cafézinho](https://www.radiocipo.com.br/artigos/caf%C3%A9zinho/) com bolo. FIQUE à vontade, oportunidade. Porém, após os questionamentos, surgem diversas variáveis como “Quanto dinheiro você tem? Qual o risco que está disposto a correr? Você tem reserva financeira de emergência? Você está em dívidas? Você tem sonhos de verdade? Você tem família? Você sabe para quê você quer investir dinheiro? E muito mais! Não é fácil controlar o dinheiro (ou controlar nós mesmo né?). Portanto, traremos aqui uma série de artigos que possa ajudar a todos ter um controle maior das finanças e uma maior compreensão da diversidade de investimentos que temos disponíveis aqui no Brasil. Lembrando que prezaremos sempre pela simplicidade da compreensão e pela aplicabilidade do conteúdo aqui escrito!
 
 De acordo com o dicionário do Google, um dos significados para Investimento é “aplicação de recursos, tempo, esforço etc. a fim de se obter algo”. Portanto, além do dinheiro, temos diversos recursos dos quais podemos fazer aplicações bem lucrativas. Assim, gostaria de propor uma perspectiva diferente e simples de investimentos, sem nenhum bicho de sete cabeças e que eu possa mostrar que investir também é COMPRAR.
 
@@ -35,7 +35,9 @@ A verdade é que, no início do texto, eu menti. Investir não é comprar. Inves
 
 Além disso, não é preciso ter somente dinheiro para fazer bons investimentos.
 
-É isso ai, galera! Espero que tenham gostado! Fiquem ligados que a Radio Cipó vai produzir material da melhor qualidade para que vocês possam investir com conhecimento apurado e da melhor forma possível.
+É isso ai, galera! Espero que tenham gostado! Fiquem ligados que a Radio Cipó vai produzir
+ material da melhor qualidade para que vocês possam investir com conhecimento apurado e da
+ melhor forma possível.
 
 Investimento: Tempo
 
