@@ -1,6 +1,6 @@
 ---
 title: Investir também é comprar! Quer ver só?
-date: '2018-09-02T10:00:00-03:00'
+date: '2018-09-04T11:00:00-03:00'
 tags:
   - BORDO
   - DINHEIRO
