@@ -40,11 +40,17 @@ Os embandeiramentos são **içados às 0800 horas e arriados ao pôr do sol**, c
 São **obrigadas a cumprir** o cerimonial e **passíveis de multa** conforme previsto no no [Art. 7º do Regulamento da Lei de Segurança do Tráfego Aquaviário (LESTA)](http://www.planalto.gov.br/ccivil_03/decreto/d2596.htm) as embarcações mercantes:
 
 * **Nacionais**, quando em **porto brasileiro**, **nas datas** anteriormente indicadas;
-* 
+
+
+
 * **Nacionais**, quando em **porto estrangeiro**, nas ocasiões de **grande gala**;
-* 
+
+
+
 * **Estrangeira**, quando em **porto nacional**, previamente avisada pelo agente ou seus prepostos, **acompanha a embarcação mercante nacional** em dia de embandeiramento e;
-* 
+
+
+
 * **Estrangeira**, quando em **porto nacional**, poderá embandeirar nas **datas festivas de sua respectiva nação**, com prévia participação à Capitania, Delegacia ou Agência.
 
 Com isso, esperamos tentar passar para você um pouquinho do **sentimento de orgulho em ser patriota** e também de **trazer mais vida e cor** aos nossos navios.
