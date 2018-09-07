@@ -46,7 +46,7 @@ São **obrigadas a cumprir** o cerimonial e **passíveis de multa** conforme pre
 
 Com isso, esperamos tentar passar para você um pouquinho do **sentimento de orgulho em ser patriota** e também de **trazer mais vida e cor** aos nossos navios.
 
-<a href="/img/banners/login_jacaranda.jpg"><img class="size-medium wp-image-13180 aligncenter" src="/img/banners/login_jacaranda.jpg" alt="" width="323" height="252" /></a>
+<img src="/img/banners/login_jacaranda.jpg" alt="/img/banners/login_jacaranda.jpg" style="width:250px;"/>
 
 A Equipe da Rádio Cipó deseja a todos um excelente feriado de Dia da Independência!
 
