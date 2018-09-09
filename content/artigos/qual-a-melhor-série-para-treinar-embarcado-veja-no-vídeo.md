@@ -2,18 +2,17 @@
 title: Qual a melhor série para treinar embarcado? Veja no vídeo!
 date: '2018-08-22T19:00:00-03:00'
 tags:
-  - Atividade física
-  - exercício físico
-  - musculação
-  - academia
-  - treino
-  - treinamento
-  - bordo
-  - embarcado
-  - marinha
-  - marinha mercante
-  - navio
-  - ''
+  - ATIVIDADE FÍSICA
+  - EXERCÍCIO FÍSICO
+  - MUSCULAÇÃO
+  - ACADEMIA
+  - TREINO
+  - TREINAMENTO
+  - BORDO
+  - EMBARCADO
+  - MARINHA
+  - MARINHA MERCANTE
+  - NAVIO
 categories:
   - Atividade Física
 banner: /img/banners/adult-athlete-body-414029.jpg
