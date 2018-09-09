@@ -2,18 +2,17 @@
 title: Treinar sem academia a bordo? É possível? Confira na nova série de vídeos!
 date: '2018-08-11T15:20:06-03:00'
 tags:
-  - Atividade física
-  - exercício físico
-  - musculação
-  - academia
-  - treino
-  - treinamento
-  - bordo
-  - embarcado
-  - marinha
-  - marinha mercante
-  - navio
-  - ''
+  - ATIVIDADE FÍSICA
+  - EXERCÍCIO FÍSICO
+  - MUSCULAÇÃO
+  - ACADEMIA
+  - TREINO
+  - TREINAMENTO
+  - BORDO
+  - EMBARCADO
+  - MARINHA
+  - MARINHA MERCANTE
+  - NAVIO
 categories:
   - Atividade Física
 banner: /img/banners/crossfit-exercise-fitness-28080.jpg
