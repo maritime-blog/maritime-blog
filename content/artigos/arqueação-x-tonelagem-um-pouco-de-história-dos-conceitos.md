@@ -1,6 +1,6 @@
 ---
 title: 'Arqueação x Tonelagem: um pouco de história dos conceitos'
-date: '2018-09-09T16:32:23-03:00'
+date: '2018-09-14T10:00:00-03:00'
 tags:
   - BORDO
   - EMBARQUE
