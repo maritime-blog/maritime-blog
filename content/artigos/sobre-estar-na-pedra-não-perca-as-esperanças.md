@@ -1,6 +1,6 @@
 ---
 title: 'Sobre estar "na pedra": não perca as esperanças!'
-date: '2018-09-09T15:10:46-03:00'
+date: '2018-09-17T11:00:00-03:00'
 tags:
   - BORDO
   - EMBARQUE
