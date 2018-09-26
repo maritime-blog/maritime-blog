@@ -10,8 +10,8 @@ tags:
   - NAVIO
   - NUTRIÇÃO
   - RÁDIO-CIPÓ
-  - academia
-  - esporte
+  - ACADEMIA
+  - ESPORTE
 categories:
   - Alimentação
 banner: /img/banners/pexels-photo-1153369.jpeg
