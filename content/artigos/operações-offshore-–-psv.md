@@ -1,5 +1,5 @@
 ---
-title: Operações Offshore – PSV
+title: Conheça mais sobre as operações offshore de um PSV
 date: '2018-09-29T09:00:00-03:00'
 tags:
   - BORDO
