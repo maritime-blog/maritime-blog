@@ -18,15 +18,11 @@ Fala galera da Rádio Cipó! Vamos falar um pouco de umas das muitas operações
 
 
 
-(FOTO)
-
-
+![Convés de um PSV](/img/banners/img-0456.jpg)
 
 IMPORTÂNCIA
 
 Se formos comparar a diária de uma embarcação PSV com as demais, como por exemplo de embarcações AHTS(Anchor Handling Tug Vessel); MPSV(Multpurpose Supply Vessel); OSRV(Oil Spill Recover Vessel); RSV(ROV Supply Vessel); PLSV(Pipe Laying  Suport Vessel) entre outras, o valor de aluguel pago na forma de diárias, o aluguel dos PSV’s são os mais baixos. Podemos considerar também em nossas comparações a situação atual do nosso mercado do petróleo. Atualmente o preço do petróleo gira em torno de U$ 70,00, e nos seus altos e baixos fez variar muito o preço das diárias de qualquer embarcação OffShore. Por exemplo, Na alta do dólar e do preço do barril uma embarcação PSV já teve seus dias de glória com valor de diária a U$ 30.000,00 e uma embarcação AHTS a U$50.000,00, porém nos dias de hoje com crise do nosso mercado, dólar em alta e preço do barril a U$ 70,00, a diária de um PSV gira em torno de U$ 15.000,00 e uma embarcação AHTS em torno de U$ 35.000,00. Ou seja metade do preço e lembrando que o valor do barril já teve seus momentos ainda piores de maré baixa a U$ 40,00. - INFORMAÇÕES PARA CHAMAR A ATENÇÃO DA GALERA QUANTO A ECONOMIA E SITUAÇÃO DO NOSSO MERCADO. EU ACHEI JUSTO EXPOR ISSO, POR MAIS SI MPLES QUE SEJA. PORÉM NÃO SEI SE ENCAIXA BM NESSA PARTE DO TEXTO.  Tal fato deve se a grande quantidade de embarcações que fazem esse tipo de operação, tronando-se uma operação muito comum, porém ao mesmo tempo uma operação muito importante. Os PSV’s atualmente são de crucial importância para o funcionamento diário das plataformas, pois levam todo tipo de carga para as mesmas, além de abastecê las com água industrial e óleo diesel – componentes importantes para manter a plataforma em perfeito funcionamento para as demais operações, como perfurações, produção e etc. Esse materiais são levados como cargas de convés(Skids, Caixas, cestas, containers, tanques, risers, dentre outros dos mais variados tipos e formas). - MISTUREI UM POUCO DE ECONOMIA E INFORMAÇÕES GERAL PARA FAZER UMA COPARAÇÃO E TAL. EU ACHO QUE SERIA BOM FUTURAMENTE FALAR DE ECONOMIA NA NOSSA ÁREA PARA FECHAR BEM O TEMA. EU NÃO TENHO TANTO CONHECIMENTO PARA FALAR SOMENTE DISSO, MAS CASO TENHA ALGUÉM DISPONÍVEL A ESTUDAR E MONTAR UM TEXTO COMIGO FLANDO SOBRE ISSO EU TOPO.
-
-
 
 O QUE SÂO ESSAS CARGAS?
 
@@ -42,14 +38,8 @@ O QUE SÂO ESSAS CARGAS?
 
 \- Risers: São tubos que ligam o fundo do mar, onde é feito a perfuração, até as unidades de perfuração.
 
-
-
 RESUMÃO
 
-
-
 Os PSV’s, apesar de sua operação simplória, são muito importantes para manter o funcionamento das plataformas, desde o insubstituível fornecimento de Óleo Diesel, que manterá seus diesel geradores ligados até dos mais simples e baratos materiais de escritório. Basicamente sem os PSV’s as plataformas jamais poderiam fazer qualquer tipo de operação
-
-
 
 COMENTÁRIOS GERAIS: EU NÃO SEI SE TUDO FICOU AMARRADO E ENCAIXADO CERTINHO. TENTEI NÃO JOGAR MUITA INFORMAÇÃO E NÃO USAR MUITOS TERMOS TECNICOS PARA NÃO GERAR MUITA DÚVIDA NA GALERA MENOS EXPERIENTE NA ÁREA.
