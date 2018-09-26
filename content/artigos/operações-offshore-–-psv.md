@@ -16,7 +16,7 @@ banner: /img/banners/img-3248.jpg
 ---
 Fala galera da Rádio Cipó! Vamos falar um pouco de umas das muitas operações **offshore** que existem no nosso mundo marítimo: as **operações com um PSV** – _Platform Supply Vessel _(Embarcação de Apoio à Plataformas). Como seu próprio nome diz, é um navio que opera para **suprir as demandas das plataformas**. Atualmente, o serviço dos PSV’s é visto como simples, pela sua **baixa complexidade de operação**, e abundante, tanto pela demanda como pela facilidade de se encontrar ou adaptar uma embarcação para esse tipo de serviço, que exige apenas um **convés livre de estruturas ou equipamentos**, para se aproveitar ao máximo o **espaço que será ocupado por cargas**.
 
-![Convés de um PSV](/img/banners/img-0456.jpg)
+![Convés de um PSV (Arquivo Pessoal / Felipe Trocado)](/img/banners/img-0456.jpg)
 
 ## CUSTO FINANCEIRO X IMPORTÂNCIA
 
@@ -24,22 +24,17 @@ Se formos comparar o **valor da diária de uma embarcação PSV** com as demais,
 
 Por mais que os custos sejam menores, quando comparados a outras embarcações offshore, pelos motivos já citados no primeiro parágrafo, os PSV’s são de **crucial importância para o funcionamento diário das plataformas**, pois levam **todo tipo de carga** para as mesmas, além de **abastecê-las com água industrial e óleo diesel** – componentes fundamentais para **manutenção da plataforma em perfeito funcionamento**, pronta para as demais operações, tais como perfurações e produção. Os **materiais transportados** no convés são dos **mais variados tipos**: **_skids_, caixas, cestas, _containers_, tanques, _risers_**, dentre outros.
 
+![Cargas no convés do PSV (Arquivo Pessoal / Felipe Trocado)](/img/banners/815c0047-4371-4853-b64b-1f688c3baf69.jpg)
+
 ## O QUE SÃO ESSAS CARGAS?
 
-\- Skids: São estruturas metálicas de pequeno porte que costumam ser usadas para carregar ampolas de produtos químicos como nitrogênio, oxigênio e acetileno.
-
-\- Caixas: São estruturas metálicas em forma de paralelepípedo de pequeno porte fechado em todas as suas faces que são usadas para carregar dos mais variados tipos de cargas pequenas, como por exemplo ferramentas.
-
-\- Cestas: São estruturas metálicas em forma de paralelepípedo de pequeno, médio e grande porte fechados em suas faces, com exceção da face superior e são usadas para carregar principalmente tubos e peças de materiais de perfuração.
-
-\- Containers: São estruturas metálicas em forma de paralelepípedo de médio e grande porte fechados em todas as suas faces ou abertos somente na sua face superior(chamados de Open Top) e são usados para carregar todo tipo de carga, como: Rancho, materiais de escritório, peças em geral, tubos, empilhadeiras e etc. Imagino agora você leitor se perguntando se realmente leu a palavra “racho” e digo que você não está ficando maluco e nem hipermetrope. Os PSV’s são os barcos que são responsáveis por abastecer com rancho as plataformas com centenas de pessoas trabalhando todos os dias. Acontece que atualmente existem containers que são refrigerados e abastecidos com energia oriunda dos navios que os transportam, esses podem se manter refrigerados até a sua chegada na plataforma de destino, sem deixar nenhum tripulante de mal humor ou com fome!!! – TENTEI AQUI FZER UMA INTERAÇÃO COM O LEITOR PRA NÃO FICAR UM TEXTO MUITO PESADO E DESCONTRAÍDO.  
-
-\- Tanque: São estruturas metálicas soldadas a um tanque normalmente de formato cilíndrico. Essa adaptação é feita para que o cilindro não rolasse e não gerasse uma condição insegura meio ao balanço do mar.
-
-\- Risers: São tubos que ligam o fundo do mar, onde é feito a perfuração, até as unidades de perfuração.
+* _**Skids**_: São estruturas metálicas de pequeno porte que costumam ser usadas para carregar ampolas de produtos químicos como nitrogênio, oxigênio e acetileno.
+* **Caixas**: São estruturas metálicas em forma de paralelepípedo de pequeno porte fechado em todas as suas faces que são usadas para carregar dos mais variados tipos de cargas pequenas, como por exemplo ferramentas.
+* **Cestas**: São estruturas metálicas em forma de paralelepípedo de pequeno, médio e grande porte fechados em suas faces, com exceção da face superior e são usadas para carregar principalmente tubos e peças de materiais de perfuração.
+* _**Containers**_: São estruturas metálicas em forma de paralelepípedo de médio e grande porte fechados em todas as suas faces ou abertos somente na sua face superior(chamados de Open Top) e são usados para carregar todo tipo de carga, como: Rancho, materiais de escritório, peças em geral, tubos, empilhadeiras e etc. Imagino agora você leitor se perguntando se realmente leu a palavra “racho” e digo que você não está ficando maluco e nem hipermetrope. Os PSV’s são os barcos que são responsáveis por abastecer com rancho as plataformas com centenas de pessoas trabalhando todos os dias. Acontece que atualmente existem containers que são refrigerados e abastecidos com energia oriunda dos navios que os transportam, esses podem se manter refrigerados até a sua chegada na plataforma de destino, sem deixar nenhum tripulante de mal humor ou com fome!!! – TENTEI AQUI FZER UMA INTERAÇÃO COM O LEITOR PRA NÃO FICAR UM TEXTO MUITO PESADO E DESCONTRAÍDO.  
+* **Tanque**: São estruturas metálicas soldadas a um tanque normalmente de formato cilíndrico. Essa adaptação é feita para que o cilindro não rolasse e não gerasse uma condição insegura meio ao balanço do mar.
+* _**Risers**_: São tubos que ligam o fundo do mar, onde é feito a perfuração, até as unidades de perfuração.
 
 RESUMÃO
 
-Os PSV’s, apesar de sua operação simplória, são muito importantes para manter o funcionamento das plataformas, desde o insubstituível fornecimento de Óleo Diesel, que manterá seus diesel geradores ligados até dos mais simples e baratos materiais de escritório. Basicamente sem os PSV’s as plataformas jamais poderiam fazer qualquer tipo de operação
-
-COMENTÁRIOS GERAIS: EU NÃO SEI SE TUDO FICOU AMARRADO E ENCAIXADO CERTINHO. TENTEI NÃO JOGAR MUITA INFORMAÇÃO E NÃO USAR MUITOS TERMOS TECNICOS PARA NÃO GERAR MUITA DÚVIDA NA GALERA MENOS EXPERIENTE NA ÁREA.
+Os PSV’s, apesar de sua operação simplória, são muito importantes para manter o funcionamento das plataformas, desde o insubstituível fornecimento de Óleo Diesel, que manterá seus diesel geradores ligados até dos mais simples e baratos materiais de escritório. Basicamente sem os PSV’s as plataformas jamais poderiam fazer qualquer tipo de operação.
