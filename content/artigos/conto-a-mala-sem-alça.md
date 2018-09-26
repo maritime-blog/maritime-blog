@@ -1,6 +1,6 @@
 ---
 title: 'Conto: A mala sem alça'
-date: '2018-09-19T09:00:00-03:00'
+date: '2018-09-26T09:00:00-03:00'
 tags:
   - ARTE
   - CONTO
