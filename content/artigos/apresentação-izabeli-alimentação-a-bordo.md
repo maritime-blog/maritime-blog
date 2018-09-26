@@ -2,14 +2,14 @@
 title: 'Alimentação a bordo - Apresentação Izabeli '
 date: '2018-07-30T16:58:10-03:00'
 tags:
-  - rádio cipó
-  - alimentação
-  - nutrição
-  - bordo
-  - embarque
-  - navio
-  - marinha
-  - marinha mercante
+  - ALIMENTAÇÃO
+  - BORDO
+  - EMBARQUE
+  - MARINHA
+  - MARINHA-MERCANTE
+  - NAVIO
+  - NUTRIÇÃO
+  - RÁDIO-CIPÓ
 categories:
   - Alimentação
 banner: /img/banners/cook-food-kitchen-eat-54455.jpeg
