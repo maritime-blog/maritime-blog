@@ -23,25 +23,22 @@ Também é importante destacar que você pode **praticar meditação independent
 
 ## Meditação x Ansiedade
 
-Nesse momento, vou expor minha experiência pessoal para exemplificar os benefícios dessa prática. Sempre fui uma pessoa super **ansiosa**, e isso era um **obstáculo** para mim, mas **convivia com esse fato normalmente**, pois **pensava que a ansiedade era algo normal** para os dias de hoje. Porém, quando comecei a **embarcar**, os sintomas da **ansiedade** de certa forma se **agravaram**. Vi a **meditação e o yoga como formas de me ajudarem**, e realmente estava certo. Hoje consigo ver como essas praticas são benéficas.
+Nesse momento, vou expor minha experiência pessoal para exemplificar os benefícios dessa prática. Sempre fui uma pessoa super **ansiosa**, e isso era um **obstáculo** para mim, mas **convivia com esse fato normalmente**, pois **pensava que a ansiedade era algo normal** para os dias de hoje. Porém, quando comecei a **embarcar**, os sintomas da **ansiedade** de certa forma se **agravaram**. Vi a **meditação e o yoga como formas de me ajudarem**, e realmente estava certo. Hoje consigo ver como essas praticas são **benéficas**.
 
-Nosso cérebro foi feito para estar sempre em alerta. Pela evolução da espécie, esse estado foi se aprimorando. Porém, o mundo que vivemos hoje é bem diferente dos nossos ancestrais, e não precisamos mais estarmos sempre em alerta - estado esse causador de estresse e ansiedade, isso é gerado pela influencia de hormônios e neurotransmissores em certas partes do cérebro. Com a meditação, a produção de substancias causadoras de estresse diminuem, e a prática a longo prazo é capaz de reduzir a atividade cerebral  destinado a permanecer em estado de alerta e beneficiar outras áreas como as destinadas ao bem estar e a memória, isso graças a plastidade cerebral.
+Nosso **cérebro foi feito para estar sempre em alerta **e pela evolução natural da espécie, esse estado foi se aprimorando. O mundo que vivemos hoje, no entanto, é bem diferente dos nossos ancestrais, e **não precisamos mais estarmos sempre em alerta** - estado esse **causador de estresse e ansiedade**, e fisiologicamente gerado pela influência de hormônios e neurotransmissores em certas partes do cérebro. Com a **meditação**, a produção de **substancias causadoras de estresse diminuem**, e a prática a longo prazo é capaz de **reduzir a atividade cerebral** na parte destinada a permanecer **em estado de alerta**. Isso **beneficia outras áreas** como as destinadas ao **bem-estar e a memória**, isso graças a plasticidade cerebral (sua habilidade para modificar sua organização estrutural própria e funcionamento).
 
-Outros benefícios:
+## Outros benefícios:
 
-•	Diminuição dos risco de desenvolver doenças cardiovasculares e redução do nível de gordura nas artérias;
+* **Diminuição** dos risco de desenvolver **doenças cardiovasculares** e **redução do nível de gordura** nas artérias;
+* Melhora na **qualidade do sono** e **redução de insônia**;
+* Quem medita frequentemente possui maior **resistência a dor**;
+* Reforço no **sistema imunológico**, a meditação frequente **aumenta o nível de anticorpos**.
 
-•	Melhora na qualidade do sono e redução de insônia;
-
-•	Quem medita frequente possui maior resistência a dor;
-
-•	Reforço no sistema imunológico, a meditação frequente aumenta o nível de anticorpos.
-
-Esses são só alguns benefícios da pratica, sendo que já foram mais que provados por vários estudos de universidades famosas como Harvard, USP e Oxford.
+Esses são só alguns benefícios da prática, sendo que já foram mais que provados por vários estudos de universidades famosas como Harvard, USP e Oxford.
 
 ## Vamos praticar!
 
-Primeiro queria começar quebrando mais um mito, não é preciso ficar sentado na postura de lotus fazendo mudras( gestos com as mãos), para meditar. A meditação como disse antes é o simples ato de se voltar para o interior, sim, essas posturas que vemos na mídia ajudam a entrar em um estado de concentração, porém você pode meditar de varias formas: sentado em uma cadeira, deitado, andando... 
+Primeiro, queria começar quebrando mais um mito, não é preciso ficar sentado na postura de lotus fazendo mudras( gestos com as mãos), para meditar. A meditação como disse antes é o simples ato de se voltar para o interior, sim, essas posturas que vemos na mídia ajudam a entrar em um estado de concentração, porém você pode meditar de varias formas: sentado em uma cadeira, deitado, andando... 
 
 Há varias técnicas de meditação porém a maiora consiste em usar algum objeto para te focar e te prender no tempo presente, esse objeto pode ser a respiração, que é mais comumente usada, uma imagem religiosa, a chama de uma vela e tantos outros. 
 
