@@ -23,7 +23,7 @@ Também é importante destacar que você pode **praticar meditação independent
 
 ## Meditação x Ansiedade
 
-Nesse item vou expor minha experiência pessoal para exemplificar os benefícios dessa pratica. Sempre fui uma pessoa super ansiosa, e isso sempre foi um obstáculo para mim, mas convivia com isso normalmente, pois  pensava que a ansiedade é algo normal para os dias de hoje. Porém quando comecei a embarcar os sintomas da ansiedade de certa forma se agravaram. Vi a meditação e o yoga como formas de me ajudarem, e realmente estava certo, hoje consigo ver como essas praticas são benéficas.
+Nesse momento, vou expor minha experiência pessoal para exemplificar os benefícios dessa prática. Sempre fui uma pessoa super ansiosa, e isso era um obstáculo para mim, mas convivia com esse fato normalmente, pois pensava que a ansiedade era algo normal para os dias de hoje. Porém, quando comecei a embarcar os sintomas da ansiedade de certa forma se agravaram. Vi a meditação e o yoga como formas de me ajudarem, e realmente estava certo, hoje consigo ver como essas praticas são benéficas.
 
 Nosso cérebro foi feito para estar sempre em alerta, pela evolução da espécie esse estado foi se aprimorando. Porém o mundo que vivemos hoje é bem diferente dos nossos ancestrais, então não precisamos mais estarmos sempre em alerta, esse estado permanente que nos causa estresse e ansiedade, isso é gerado pela influencia de hormônios e neurotransmissores em certas partes do cérebro. Com a meditação, a produção de substancias causadoras de estresse diminuem, e a prática a longo prazo é capaz de reduzir a atividade cerebral  destinado a permanecer em estado de alerta e beneficiar outras áreas como as destinadas ao bem estar e a memória, isso graças a plastidade cerebral.
 
