@@ -38,12 +38,16 @@ Esses são só alguns benefícios da prática, sendo que já foram mais que prov
 
 ## Vamos praticar!
 
-Primeiro, queria começar quebrando mais um mito, não é preciso ficar sentado na postura de lotus fazendo mudras( gestos com as mãos), para meditar. A meditação como disse antes é o simples ato de se voltar para o interior, sim, essas posturas que vemos na mídia ajudam a entrar em um estado de concentração, porém você pode meditar de varias formas: sentado em uma cadeira, deitado, andando... 
+Primeiro, queria começar quebrando mais um mito: **não é preciso** ficar sentado na **postura de lotus fazendo mudras** (gestos com as mãos), para meditar. A meditação como disse antes, é o simples ato de se **voltar para o interior**, sim, essas posturas que vemos na mídia ajudam a entrar em um estado de concentração, porém **você pode meditar de várias formas**: sentado em uma cadeira, deitado, andando... 
 
-Há varias técnicas de meditação porém a maiora consiste em usar algum objeto para te focar e te prender no tempo presente, esse objeto pode ser a respiração, que é mais comumente usada, uma imagem religiosa, a chama de uma vela e tantos outros. 
+Há **varias técnicas** de meditação porém, a maioria consiste em **usar algum objeto** para te focar e te prender no tempo presente, esse objeto pode ser **a respiração**, que é mais comumente usada, **uma imagem religiosa**, **a chama de uma vela** e tantos outros. 
 
-Caso voce esteja interessado em começar a praticar te aconselho a ouvir meditações guiadas do youtube ou de alguns apps. Sendo que meditação é como praticar um novo exercício físico no começo pode ser difícil mas com tempo e perseverança é possível. Então comece com apenas 5 minutos por dia, pode ser antes de dormir ou invés de dar aquela checada nas redes sociais faça 5 minutos dessas meditações guiadas, tenho certeza que logo você sentirá os benefícios. Em relação a minha prática costumo meditar 20 minutos após praticar yoga, normalmente o Insight Timer, que é um app de meditação, nele você encontra meditações guiadas em varias línguas, inclusive português, ou pode usá-lo apenas como um timer.
+Caso voce esteja interessado em começar a praticar, te aconselho a ouvir **meditações guiadas** do YouTube ou de alguns Apps. Sendo que meditação **é como praticar um novo exercício físico**: No começo, pode ser difícil. Mas com tempo e perseverança é possível. Então, **comece com apenas 5 minutos por dia**, pode ser antes de dormir ou ao invés de dar aquela checada nas redes sociais, faça 5 minutos dessas meditações guiadas. Tenho certeza que logo você sentirá os **benefícios**. 
+
+Em relação a minha prática, **costumo meditar 20 minutos após praticar yoga**, normalmente o **_Insight Timer_**, que é um app de meditação. Nele você encontra meditações guiadas em varias línguas, inclusive português, ou pode usá-lo apenas como um timer.
 
 Então galera, espero que esse artigo tenha sido de grande ajuda e que ele tenha despertado em vocês a vontade de começar a praticar. Caso tenha surgido alguma duvida ou queiram falar comigo, vocês podem entrar em contato pelo meu Instagram @tiagosacramento. 
 
 Um abraço a todos e boa prática.
+
+Tiago Sacramento / Oficial de Máquinas
