@@ -13,13 +13,13 @@ categories:
   - Bem-estar
 banner: /img/banners/adult-asanas-background-616996.jpg
 ---
-Olá Radio Cipó, meu nome é Tiago Sacramento, sou oficial de máquinas formado no ano de 2014. Atualmente pratico yoga e meditação tanto nas folgas quanto a bordo aqui no navio. Meu objetivo nesse artigo é mostrar a vocês leitores que a meditação não é coisa de monge do Himalaia como muitos pensam e também que ela pode oferecer dias com maior qualidade de vida, especialmente nos períodos embarcados.
+Olá Radio Cipó, meu nome é Tiago Sacramento, sou oficial de máquinas formado no ano de 2014. Atualmente **pratico yoga e meditação**, tanto **nas folgas** quanto a bordo, aqui **no navio**. Meu objetivo nesse artigo é mostrar a vocês leitores que a **meditação não é coisa de monge do Himalaia**, como muitos pensam e também que ela pode oferecer **dias com maior qualidade de vida**, especialmente nos períodos embarcados.
 
 ## O que é meditação?
 
-A palavra Meditação vem do latim “meditare”, que significa voltar-se para o centro e desligar-se do mundo externo. Ou seja, meditação é a concentração da mente, é deixar tudo o que nos preocupa de lado e viver o presente. Um mito que precisamos desconstruir é que meditação é deixar de pensar, isso é quase impossível, a mente foi feita para pensar , o que fazemos durante a meditação é diminuir a atividade cerebral, para isso no início podemos usar um objeto de concentração o mais comum usado é a atenção na respiração (inspiração e expiração). E durante esse processo de concentração pensamentos serão gerados mas o importante é não nos apergarmos a eles.
+A palavra Meditação vem do latim “meditare”, que **significa voltar-se para o centro e desligar-se do mundo externo**. Ou seja, meditação é a **concentração da mente**, é **deixar tudo o que nos preocupa de lado e viver o presente**. Um **mito** que precisamos desconstruir é que meditação é **deixar de pensar**. Isso é quase impossível; a **mente foi feita para pensar**! O que fazemos durante a meditação é **diminuir a atividade cerebral** e para isso, no início, podemos **usar um objeto de concentração**: o mais comum usado é **a atenção na respiração** (inspiração e expiração). E durante esse processo de concentração, **pensamentos serão gerados** mas o importante é **não nos apergarmos a eles**.
 
-Outra coisa que temos que ter em mente também é que você pode praticar meditação independente de ter religião ou não, pois muitas pessoas associam a associam com alguma religião ou prática oriental. Na verdade, só precisamos de determinação e força de vontade para atingir o estado meditativo e ir cada vez mais além.
+Também é importante destacar que você pode **praticar meditação independente de ter religião ou não**, pois muitas pessoas associam a associam com alguma religião ou prática oriental. Na verdade, só **precisamos de determinação e força de vontade** para **atingir o estado meditativo** e ir cada vez **mais além**.
 
 ## Meditação x Ansiedade
 
