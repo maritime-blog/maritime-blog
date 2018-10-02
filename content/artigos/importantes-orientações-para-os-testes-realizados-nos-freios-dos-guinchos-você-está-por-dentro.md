@@ -1,7 +1,7 @@
 ---
 title: >-
-  IMPORTANTES ORIENTAÇÕES PARA OS TESTES REALIZADOS NOS FREIOS DOS GUINCHOS!
-  VOCÊ ESTÁ POR DENTRO?
+  Importantes orientações para os testes realizados nos freios dos guinchos!
+  Você está por dentro?
 date: '2018-10-02T17:50:48-03:00'
 tags:
   - BORDO
