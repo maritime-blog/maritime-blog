@@ -15,13 +15,13 @@ Cada guincho deve ser testado individualmente e em intervalos ANUAIS (ou após r
 
 Recomenda-se que seja mantido a bordo um set completo do kit para teste dos freios dos guinchos, de acordo com as recomendações do fabricante.
 
-![](/img/banners/01.png)
+![null](/img/banners/01.png)
 
 IMPORTANTE: verificar se o navio possui a bordo kit e procedimento para realização do teste e se os mesmos estão sendo realizados adequadamente. 
 
 IMPORTANTE: Recomenda-se realizar marcações locais das características e data de realização do teste, além da marcação do ajuste torque necessário no volante ou alavanca para alcançar o valor dessa carga
 
-![](/img/banners/02.png)
+![null](/img/banners/02.png)
 
 ATENÇÃO!! Caso os cabos de amarração disponibilizados e utilizados a bordo possuam um MBL superior aos quais os guinchos foram originalmente projetados, os freios devem sem ajustados para suportar uma carga equivalente a 60% do MBL dos cabos de projeto. Os tripulantes devem ter conhecimento dessa recomendação. 
 
@@ -29,4 +29,7 @@ Além disso, nesse caso deve-se ter atenção especial quanto ao maior diâmetro
 
 
 
-_Referência – OCIMF VIQ , MEG 3rd Edition e ISGOTT: _
+
+
+_Referência – OCIMF VIQ , MEG 3rd Edition e ISGOTT: 
+_
