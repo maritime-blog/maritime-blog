@@ -17,6 +17,8 @@ tags:
   - MOLINETES
   - TESTE
   - INSPEÇÃO
+  - WINCH
+  - BRAKE
 categories:
   - Conteúdo Técnico
 banner: /img/banners/homer-radio.jpg
