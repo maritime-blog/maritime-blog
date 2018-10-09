@@ -17,9 +17,9 @@ Olá Radio Cipó, meu nome é Tiago Sacramento, sou oficial de máquinas formado
 
 ## O que é meditação?
 
-A palavra Meditação vem do latim “meditare”, que **significa voltar-se para o centro e desligar-se do mundo externo**. Ou seja, meditação é a **concentração da mente**, é **deixar tudo o que nos preocupa de lado e viver o presente**. Um **mito** que precisamos desconstruir é que meditação é **deixar de pensar**. Isso é quase impossível; a **mente foi feita para pensar**! O que fazemos durante a meditação é **diminuir a atividade cerebral** e para isso, no início, podemos **usar um objeto de concentração**: o mais comum usado é **a atenção na respiração** (inspiração e expiração). E durante esse processo de concentração, **pensamentos serão gerados** mas o importante é **não nos apergarmos a eles**.
+A palavra Meditação vem do latim “meditare”, que **significa voltar-se para o centro e desligar-se do mundo externo**. Ou seja, meditação é a **concentração da mente**, é **deixar tudo o que nos preocupa de lado e viver o presente**. Um **mito** que precisamos desconstruir é que meditação é **deixar de pensar**. Isso é quase impossível; a **mente foi feita para pensar**! O que fazemos durante a meditação é **diminuir a atividade cerebral** e para isso, no início, podemos **usar um objeto de concentração**: o mais comum usado é **a atenção na respiração** (inspiração e expiração). E durante esse processo de concentração, **pensamentos serão gerados** mas o importante é **não nos apegarmos a eles**.
 
-Também é importante destacar que você pode **praticar meditação independente de ter religião ou não**, pois muitas pessoas associam a associam com alguma religião ou prática oriental. Na verdade, só **precisamos de determinação e força de vontade** para **atingir o estado meditativo** e ir cada vez **mais além**.
+Também é importante destacar que você pode **praticar meditação independente de ter religião ou não**, pois muitas pessoas a associam com alguma religião ou prática oriental. Na verdade, só **precisamos de determinação e força de vontade** para **atingir o estado meditativo** e ir cada vez **mais além**.
 
 ## Meditação x Ansiedade
 
@@ -44,7 +44,7 @@ Há **varias técnicas** de meditação porém, a maioria consiste em **usar alg
 
 Caso voce esteja interessado em começar a praticar, te aconselho a ouvir **meditações guiadas** do YouTube ou de alguns Apps. Sendo que meditação **é como praticar um novo exercício físico**: No começo, pode ser difícil. Mas com tempo e perseverança é possível. Então, **comece com apenas 5 minutos por dia**, pode ser antes de dormir ou ao invés de dar aquela checada nas redes sociais, faça 5 minutos dessas meditações guiadas. Tenho certeza que logo você sentirá os **benefícios**. 
 
-Em relação a minha prática, **costumo meditar 20 minutos após praticar yoga**, normalmente o **_Insight Timer_**, que é um app de meditação. Nele você encontra meditações guiadas em varias línguas, inclusive português, ou pode usá-lo apenas como um timer.
+Em relação a minha prática, **costumo meditar 20 minutos após praticar yoga**, normalmente o _**Insight Timer**_, que é um app de meditação. Nele você encontra meditações guiadas em varias línguas, inclusive português, ou pode usá-lo apenas como um timer.
 
 Então galera, espero que esse artigo tenha sido de grande ajuda e que ele tenha despertado em vocês a vontade de começar a praticar. Caso tenha surgido alguma duvida ou queiram falar comigo, vocês podem entrar em contato pelo meu Instagram @tiagosacramento. 
 
