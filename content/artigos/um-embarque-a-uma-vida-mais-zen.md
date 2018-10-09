@@ -1,6 +1,6 @@
 ---
 title: Um embarque a uma vida mais zen!
-date: '2018-09-26T20:38:54-03:00'
+date: '2018-10-09T10:00:00-03:00'
 tags:
   - BORDO
   - EMBARQUE
