@@ -14,7 +14,7 @@ categories:
   - Conteúdo Técnico
 banner: /img/banners/img-3248.jpg
 ---
-Fala galera da Rádio Cipó! Vamos falar um pouco de umas das muitas operações **offshore** que existem no nosso mundo marítimo: as **operações com um PSV** – _Platform Supply Vessel _(Embarcação de Apoio à Plataformas). Como seu próprio nome diz, é um navio que opera para **suprir as demandas das plataformas**. Atualmente, o serviço dos PSV’s é visto como simples, pela sua **baixa complexidade de operação**, e abundante, tanto pela demanda como pela facilidade de se encontrar ou adaptar uma embarcação para esse tipo de serviço, que exige apenas um **convés livre de estruturas ou equipamentos**, para se aproveitar ao máximo o **espaço que será ocupado por cargas**.
+Fala galera da Rádio Cipó! Vamos falar um pouco de umas das muitas operações **offshore** que existem no nosso mundo marítimo: as **operações com um PSV** – _Platform Supply Vessel_ (Embarcação de Apoio à Plataformas). Como seu próprio nome diz, é um navio que opera para **suprir as demandas das plataformas**. Atualmente, o serviço dos PSV’s é visto como simples, pela sua **baixa complexidade de operação**, e abundante, tanto pela demanda como pela facilidade de se encontrar ou adaptar uma embarcação para esse tipo de serviço, que exige apenas um **convés livre de estruturas ou equipamentos**, para se aproveitar ao máximo o **espaço que será ocupado por cargas**.
 
 ![Convés de um PSV (Arquivo Pessoal / Felipe Trocado)](/img/banners/img-0456.jpg)
 
@@ -28,12 +28,12 @@ Por mais que os custos sejam menores, quando comparados a outras embarcações o
 
 ## O QUE SÃO ESSAS CARGAS?
 
-* _**Skids**_: São estruturas metálicas de **pequeno porte** que costumam ser usadas para carregar **ampolas de produtos químicos** como nitrogênio, oxigênio e acetileno.
+* **_Skids_**: São estruturas metálicas de **pequeno porte** que costumam ser usadas para carregar **ampolas de produtos químicos** como nitrogênio, oxigênio e acetileno.
 * **Caixas**: São estruturas metálicas em forma de paralelepípedo de **pequeno porte**, **fechado em todas as suas faces**, usadas para carregar dos mais variados tipos de **cargas pequenas**, como por exemplo **ferramentas**.
 * **Cestas**: São estruturas metálicas em forma de paralelepípedo de **pequeno, médio e grande porte**, fechados em suas faces, com **exceção da face superior** e são usadas para carregar principalmente **tubos e peças de materiais de perfuração**.
-* _**Containers**_: São estruturas metálicas em forma de paralelepípedo de **médio e grande porte**, fechados em todas as suas faces ou abertos somente na sua face superior (chamados de _Open Top_), e são usados para carregar **todo tipo de carga**, como: **rancho, materiais de escritório, peças em geral, tubos, empilhadeiras** e etc. Imagino agora você leitor, se perguntando se realmente leu a palavra “rancho”, e digo que você não está ficando maluco e nem hipermetrope. Os PSV’s são os barcos que são responsáveis por **abastecer com rancho as plataformas com centenas de pessoas trabalhando todos os dias**. Existem **_containers_ refrigerados** e abastecidos com energia oriunda dos navios que os transportam, podendo seu conteúdo ser mantido refrigerados até a sua chegada na plataforma de destino, **sem deixar nenhum tripulante de mal humor ou com fome!**  
+* **_Containers_**: São estruturas metálicas em forma de paralelepípedo de **médio e grande porte**, fechados em todas as suas faces ou abertos somente na sua face superior (chamados de _Open Top_), e são usados para carregar **todo tipo de carga**, como: **rancho, materiais de escritório, peças em geral, tubos, empilhadeiras** e etc. Imagino agora você leitor, se perguntando se realmente leu a palavra “rancho”, e digo que você não está ficando maluco e nem hipermetrope. Os PSV’s são os barcos que são responsáveis por **abastecer com rancho as plataformas com centenas de pessoas trabalhando todos os dias**. Existem **_containers_ refrigerados** e abastecidos com energia oriunda dos navios que os transportam, podendo seu conteúdo ser mantido refrigerados até a sua chegada na plataforma de destino, **sem deixar nenhum tripulante de mal humor ou com fome!**  
 * **Tanque**: São e**struturas metálicas soldadas a um tanque normalmente de formato cilíndrico**. Essa adaptação é feita **para que o cilindro não rolasse** e não gerasse uma **condição insegura de perda de estabilidade** meio ao balanço do mar.
-* _**Risers**_: São **tubos que ligam** o fundo do mar, **onde é feito a perfuração**, até às **unidades de perfuração**.
+* **_Risers_**: São **tubos que ligam** o fundo do mar, **onde é feito a perfuração**, até às **unidades de perfuração**.
 
 ![PSV em operação com uma FPSO (Arquivo Pessoal / Felipe Trocado)](/img/banners/img-3416.jpg)
 
