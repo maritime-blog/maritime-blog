@@ -1,6 +1,6 @@
 ---
 title: 'Conto: Dia 12 de outubro'
-date: '2018-10-16T21:00:00-03:00'
+date: '2018-10-16T09:00:00-03:00'
 tags:
   - ARTE
   - CONTO
@@ -49,3 +49,7 @@ O Capitão voltou a perguntar:
 \- Então, se vocês não precisam de nada, por que razão soltaram os fogos sinalizadores?
 
 \- Seu moço, é que hoje é dia de nossa padinha, Nossa Sinhora Paricida. O sinhô num tem aí uma cachacinha pra nóis comemorá?
+
+CLC Francisco Cesar Monteiro Gondar
+
+Comodoro da Marinha Mercante
