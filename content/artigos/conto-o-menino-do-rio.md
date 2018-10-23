@@ -1,6 +1,6 @@
 ---
 title: 'Conto: O Menino do Rio'
-date: '2018-09-26T23:35:06-03:00'
+date: '2018-10-23T09:00:00-03:00'
 tags:
   - ARTE
   - CONTO
@@ -14,7 +14,7 @@ categories:
   - Arte
 banner: /img/banners/blur-boat-boy-386003.jpg
 ---
-Nosso navio, depois de uma travessia oceânica procedente da Europa, chegou ao México, no porto de Vera Cruz. Como de praxe, fomos logo ao portaló (porta de entrada) receber os ilustres passageiros que deveriam embarcar naquele porto. Na lista, constava um grupo de estudantes, dois casais de engenheiros oceanográficos, dois meteorologistas, três agentes marítimos da América Central e a numerosa família do Vice-Cônsul brasileiro, cujo neto contava nove anos de idade. Logo na primeira impressão, mostrou-se um menino muito esperto e curioso.
+Nosso navio, depois de uma travessia oceânica procedente da Europa, chegou ao México, no porto de Vera Cruz. Como de praxe, fomos logo ao portaló (porta de entrada) receber os ilustres passageiros que deveriam embarcar naquele porto. Na lista, constava um grupo de estudantes, dois casais de engenheiros oceanográficos, dois meteorologistas, três agentes marítimos da América Central e a numerosa família do Vice-Cônsul brasileiro, cujo neto contava nove anos de idade. Logo na primeira impressão, mostrou-se um menino muito esperto e curioso.
 
 Assim que o garoto viu o Comandante, perguntou:
 
@@ -66,7 +66,7 @@ Em seguida, o garoto se vira para mãe e, ainda confuso, comenta:
 
 Finalmente, o navio deixou o porto de Vera Cruz e começou a viagem de volta. 
 
-Logo no primeiro dia, no salão de estar do navio, o menino aborda o Capitão e pergunta:
+Logo no primeiro dia, no salão de estar do navio, o menino aborda o Capitão e pergunta:
 
 \- Comandante, quando o navio vai entrar no rio da Guanabara?
 
@@ -145,3 +145,7 @@ O interessante é que o menino, que era muito agitado e perguntava bastante, fic
 E o menino prontamente respondeu com outra pergunta: 
 
 \- Comandante, quando é que o navio sai do Rio de Janeiro?
+
+CLC Francisco Cesar Monteiro Gondar
+
+Comodoro da Marinha Mercante
