@@ -1,6 +1,6 @@
 ---
 title: 'Poema: Homem-Mar'
-date: '2018-09-26T09:00:00-03:00'
+date: '2018-10-26T09:00:00-03:00'
 tags:
   - ARTE
   - POEMA
