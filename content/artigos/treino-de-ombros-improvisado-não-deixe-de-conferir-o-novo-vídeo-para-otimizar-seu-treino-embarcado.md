@@ -1,7 +1,7 @@
 ---
 title: >-
-  TREINO DE OMBROS IMPROVISADO. NÃO DEIXE DE CONFERIR O NOVO VÍDEO PARA OTIMIZAR
-  SEU TREINO EMBARCADO!
+  Treino de ombros improvisado. Não deixe de conferir o novo vídeo para otimizar
+  seu treino embarcado!
 date: '2018-09-29T09:00:00-03:00'
 tags:
   - ATIVIDADE FÍSICA
