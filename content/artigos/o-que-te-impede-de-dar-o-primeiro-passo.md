@@ -48,12 +48,14 @@ Começando este mês com **aportes de 5.000 reais por mês a uma taxa de retorno
 
 ![](/img/banners/2.png)
 
-Ou seja, em 15 anos você já teria quase 2 milhões de reais o que daria um renda mensal de 10.000 reais (com retorno de 0.5%a.m. após a fase de acumulação). E mais importante, observe acima o quanto disso foi acumulado a partir do rendimento de juros sobre juros: 54.82% sendo que você somente aportou 45.18%. Note que ao longo do tempo os aportes diminuem sua importância drasticamente como podemos ver abaixo:
+Ou seja, **em 15 anos você já teria quase 2 milhões de reais**, o que daria um **renda mensal de 10.000 reais** (com retorno de 0.5%a.m. após a fase de acumulação). E o mais importante: observe acima **o quanto disso foi acumulado a partir do rendimento de juros sobre juros**: 54.82%, sendo que você somente aportou 45.18%. Note que, **ao longo do tempo, os aportes diminuem sua importância** drasticamente, como podemos ver abaixo:
 
 ![](/img/banners/3.png)
 
-Lógico que esta foi uma simulação simplista para apresentar o que é possível fazer. Com o tempo e mais conhecimento sobre os investimentos é interessante considerar outros fatores como correção da inflação. Também, conforme adquirimos mais maturidade passamos a fazer melhores escolhas de investimentos aumentando a taxa de retorno, ou ainda, sermos mais agressivos e poupar uma maior parte do nosso salário podemos assim reduzir substancialmente o tempo total de acumulação.
+Lógico que esta foi uma simulação simplista para apresentar o que é possível fazer. **Com o tempo e mais conhecimento** sobre os investimentos, é interessante **considerar outros fatores** como correção da **inflação**. Também, conforme adquirimos mais **maturidade**, passamos a fazer melhores escolhas de investimentos **aumentando a taxa de retorno**, ou ainda, sermos mais agressivos e **poupar uma maior parte do nosso salário**, podemos assim, **reduzir substancialmente o tempo total de acumulação**.
 
 Espero que tenha contribuído mostrando alguma das crenças que nos limitam a começar a investir. 
 
 Compartilhe conosco: o que te limita em começar a investir? Quais são seus receios?
+
+Henrique Donatto
