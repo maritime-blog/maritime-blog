@@ -42,9 +42,9 @@ Por exemplo, se você tiver 20 anos precisaria separar 361,04 reais por mês. Ag
 
 Fonte: https://www.businessinsider.com/compound-interest-monthly-investment-2014-3
 
-Ok, mas acho que nem todos querem aguardar até os 65 anos. Então transformando para nossa realidade podemos fazer diversas simulações, mas vou deixar uma que acredito ser totalmente factível:
+Ok, mas acho que nem todos querem aguardar até os 65 anos. Então transformando para nossa realidade podemos fazer **diversas simulações**, mas vou deixar **uma que acredito ser totalmente factível**:
 
-Começando este mês com aportes de 5.000 reais por mês a uma taxa de retorno anual de 10% durante 15 anos.
+Começando este mês com **aportes de 5.000 reais por mês a uma taxa de retorno anual de 10% durante 15 anos**.
 
 ![](/img/banners/2.png)
 
