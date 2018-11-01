@@ -2,8 +2,16 @@
 title: O que te impede de dar o primeiro passo?
 date: '2018-11-01T10:22:34-03:00'
 tags:
-  - >-
-    https://www.radiocipo.com.br/artigos/treino-de-pernas-sem-nenhum-peso-sim-%C3%A9-poss%C3%ADvel-veja-agora/
+  - BORDO
+  - EMBARQUE
+  - MARINHA
+  - MARINHA-MERCANTE
+  - NAVIO
+  - RÁDIO-CIPÓ
+  - INVESTIMENTO
+  - DINHEIRO
+  - FINANÇAS
+  - FINANCEIRO
 categories:
   - Investimento
 banner: /img/banners/pexels-photo-346834.jpeg
