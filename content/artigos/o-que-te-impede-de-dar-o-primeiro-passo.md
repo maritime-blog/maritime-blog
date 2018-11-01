@@ -18,7 +18,7 @@ banner: /img/banners/pexels-photo-346834.jpeg
 ---
 Já falamos aqui sobre a importância de realizar investimentos de longo prazo visando a [Independência Financeira](https://www.radiocipo.com.br/artigos/rumo-%C3%A0-independ%C3%AAncia-financeira/) porém, percebo que para muitas pessoas há diversos **mitos que devem ser quebrados** antes de sair da zona de conforto.
 
-Primeira coisa que temos que ter em mente é que vamos cometer **erros**. Já deixei isso claro e eu mesmo já cometi diversos erros durante os primeiros anos investindo. 
+Primeira coisa que temos que ter em mente é que vamos cometer **erros**. Já deixei isso claro e eu mesmo já cometi diversos erros durante os primeiros anos investindo. 
 
 Algumas **crenças comuns** é pensar que precisamos **juntar muito dinheiro para começar** a investir, o que vai contra ao princípio básico da primeira fase da sua vida, que é justamente acumulação de patrimônio. (Lembre-se: estamos numa maratona, e não numa corrida de 100 metros). Já ouvi pessoas perguntando: mas quanto vou ganhar com esse investimento? Quando mostro o resultado de valores pífios, ficam decepcionados pois queriam um investimento para dobrar de capital em um ano. O que tento explicar é que no início é assim mesmo, pois **estamos aportando pouco dinheiro**. A medida que formos nos sentindo mais confortáveis e aplicando mais, teremos consequentemente **resultados maiores**, até que um dia alcancemos **valores mensais maiores que sua própria renda** principal.
 
@@ -30,50 +30,30 @@ E outro detalhe: você já pensou na **quantidade de taxas que paga** atualmente
 
 Uma vez estava conversando com uma Oficial sobre investimentos e de repente chega o Comandante, o qual quis interagir também, falando que tinha diversas aplicações. Eu sempre gosto de saber qual o produto que estão aplicando e tentar entender por qual razão foi escolhido. Ele falou que tinha uns 15 títulos de capitalização e que achava que era um ótimo modo de poupar pois era debitado da sua conta sem ver. Na época não quis contrariar, (risos) mas gente, **título de capitalização só serve para uma coisa: gerente de banco bater meta**. Aí tem gente que diz: mas este que eu fiz é Título de Capitalização Premiado. Hum? Sinto em lhe dizer, mas isto é **mais difícil de ganhar que a própria Mega-Sena**.
 
-Muita gente diz também que há muito tempo para começar a investir e poupar e que também há a previdência social. Primeiro, quanto mais cedo você começar melhor justamente pelo poder dos juros compostos. Pra alguns é difícil de imaginar então mostro a seguir alguns exemplos gráficos. Segundo, depender da previdência social é a mesma coisa que estar caminhando em direção ao precipício. Principalmente, para nós marítimos, que temos salários maiores que o próprio teto previdenciário. Acredite, mas há pessoas que não sabem que não tem como receber mais que o teto que hoje está em R$ 5.645,80 e que há diversos fatores de correção que sempre reduzem este valor.  Será que seria legal ter uma redução substancial do seu salário quando se aposentar? Ou pior, ter ainda que continuar trabalhando para se manter? Você deve estar acompanhando o caos que está e que esta é uma das pautas mais discutidas atualmente visto o roubo previdenciário que existe. Então depender do governo, acredito não ser a melhor solução.
+Muita gente diz também que há muito tempo para começar a investir e poupar, e que também há a previdência social. Primeiro, **quanto mais cedo você começar, melhor**, justamente **pelo poder dos juros compostos**. Para alguns, é difícil de imaginar, então mostro a seguir alguns **exemplos gráficos**. Segundo, **depender da previdência social é a mesma coisa que estar caminhando em direção ao precipício**. Principalmente para nós, **marítimos**, que temos **salários maiores que o próprio teto previdenciário**. Acredite, mas há pessoas que não sabem que **não tem como receber mais que o teto** que hoje está em **R$ 5.645,80** e que há diversos **fatores de correção** que sempre **reduzem este valor**. Será que seria legal ter uma **redução substancial do seu salário quando se aposentar?** Ou pior, ter ainda que **continuar trabalhando para se manter?** Você deve estar acompanhando o caos que está, e que esta é uma das pautas mais discutidas atualmente, visto o rombo previdenciário que existe. Então, **depender do governo, acredito não ser a melhor solução**.
 
+## Para refletir:
 
-
-Para refletir:
-
-
-
-Digamos que você queira acumular 1 milhão de reais até a idade de 65 anos. Abaixo mostro um gráfico de quanto você precisaria investir mensalmente até os 60 anos com uma taxa de retorno anual de 6%a.a.
-
-
+Digamos que você queira **acumular 1 milhão de reais até a idade de 65 anos**. Abaixo mostro um gráfico de **quanto você precisaria investir mensalmente** até os 60 anos com uma taxa de retorno anual de 6%a.a.
 
 Por exemplo, se você tiver 20 anos precisaria separar 361,04 reais por mês. Agora se começasse 30 já seriam necessários 698,41 reais mensais. Viu só? Em dez anos você teria que duplicar seu aporte mensal. Nada bom, né? Com isso, ao atingir os 65 anos e com 1 milhão em conta rendendo 6% a.a. seria possível uma renda passiva de aproximadamente 5.000,00 mensais. 
 
+![Fonte: https://www.businessinsider.com/compound-interest-monthly-investment-2014-3](/img/banners/1.jpg)
 
-
- 
-
-https://www.businessinsider.com/compound-interest-monthly-investment-2014-3
-
-
+Fonte: https://www.businessinsider.com/compound-interest-monthly-investment-2014-3
 
 Ok, mas acho que nem todos querem aguardar até os 65 anos. Então transformando para nossa realidade podemos fazer diversas simulações, mas vou deixar uma que acredito ser totalmente factível:
 
-
-
 Começando este mês com aportes de 5.000 reais por mês a uma taxa de retorno anual de 10% durante 15 anos.
 
-
-
- 
+![](/img/banners/2.png)
 
 Ou seja, em 15 anos você já teria quase 2 milhões de reais o que daria um renda mensal de 10.000 reais (com retorno de 0.5%a.m. após a fase de acumulação). E mais importante, observe acima o quanto disso foi acumulado a partir do rendimento de juros sobre juros: 54.82% sendo que você somente aportou 45.18%. Note que ao longo do tempo os aportes diminuem sua importância drasticamente como podemos ver abaixo:
 
-
-
- 
+![](/img/banners/3.png)
 
 Lógico que esta foi uma simulação simplista para apresentar o que é possível fazer. Com o tempo e mais conhecimento sobre os investimentos é interessante considerar outros fatores como correção da inflação. Também, conforme adquirimos mais maturidade passamos a fazer melhores escolhas de investimentos aumentando a taxa de retorno, ou ainda, sermos mais agressivos e poupar uma maior parte do nosso salário podemos assim reduzir substancialmente o tempo total de acumulação.
 
-
-
 Espero que tenha contribuído mostrando alguma das crenças que nos limitam a começar a investir. 
-
-
 
 Compartilhe conosco: o que te limita em começar a investir? Quais são seus receios?
