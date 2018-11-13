@@ -1,6 +1,6 @@
 ---
 title: O que te impede de dar o primeiro passo?
-date: '2018-11-01T10:22:34-03:00'
+date: '2018-11-13T10:22:34-02:00'
 tags:
   - BORDO
   - EMBARQUE
