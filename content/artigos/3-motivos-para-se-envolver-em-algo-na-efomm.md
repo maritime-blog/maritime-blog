@@ -1,6 +1,6 @@
 ---
 title: 3 motivos para se envolver em algo na EFOMM
-date: '2018-11-01T11:51:45-03:00'
+date: '2018-11-20T09:00:00-02:00'
 tags:
   - BORDO
   - EMBARQUE
