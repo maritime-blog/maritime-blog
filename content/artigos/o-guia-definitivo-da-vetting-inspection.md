@@ -19,13 +19,13 @@ categories:
   - Conteúdo Técnico
 banner: /img/banners/ing_19064_06416.jpg
 ---
-Se você trabalha em um navio petroleiro, gaseiro ou químico há pelo menos 6 meses, é quase certo de ter passado por uma _**Vetting Inspection**_. Como eu mesmo passei por uma alguns dias atrás, resolvi escrever este artigo para compartilhar o que eu aprendi sobre o assunto.
+Se você trabalha em um navio petroleiro, gaseiro ou químico há pelo menos 6 meses, é quase certo de ter passado por uma **_Vetting Inspection_**. Como eu mesmo passei por uma alguns dias atrás, resolvi escrever este artigo para compartilhar o que eu aprendi sobre o assunto.
 
 Neste texto você irá aprender **quem são os envolvidos na _Vetting_**, **o que é cobrado** e **baseado em que regras**, o que a **tripulação pode fazer** para ter um **bom resultado** e como são as **inspeções**, em geral.
 
 Ao escrevê-lo tive o prazer de contar com a ajuda do **Comandante Jurandi**, _Vetting Inspector,_ muitíssimo experiente e que se mostrou mais do que disposto a apoiar a Rádio Cipó nesse texto, esclarecendo muitas das nossas dúvidas.
 
-# Entidades envolvidas:
+# Entidades envolvidas
 
 Antes de qualquer coisa, para facilitar o entendimento, essas são as entidades envolvidas no processo da _Vetting Inspection_:
 
@@ -108,34 +108,38 @@ Outras publicações relevantes da OCIMF:
 
 ## Como se preparar
 
-A melhor maneira de se preparar, de novo, é manter o navio em boas condições e seguir as regras da OCIMF durante o ano todo. Dessa maneira, ao se aproximar a data da inspeção se evitam “correrias”, ou preocupação por não estar seguindo esta ou aquela regra.
+A melhor maneira de se preparar, de novo, é **manter o navio em boas condições e seguir as regras da OCIMF durante o ano todo**. Dessa maneira, ao se aproximar a data da inspeção se **evitam “correrias” ou preocupação por não estar seguindo esta ou aquela regra**.
 
-Tendo o conhecimento dos procedimentos exigidos e seguindo-os diariamente a tripulação estará tranquila no momento da inspeção, pois terá certeza de que tudo esta sendo feito da maneira correta.
+Tendo o **conhecimento dos procedimentos** exigidos e seguindo-os diariamente, a tripulação estará tranquila no momento da inspeção, pois terá certeza de que tudo está sendo feito da **maneira correta**.
 
-Por outro lado, se toda a preparação for deixada para última hora, as correções serão feitas com correria, falta de atenção e todos estarão mais propensos a cometerem erros.
+Por outro lado, se toda a preparação for **deixada para última hora**, as correções serão feitas com **correria, falta de atenção** e todos estarão mais propensos a **cometerem erros**.
 
-O mais importante é criar o hábito de seguir todas as regras e não se deixar “relaxar”após a inspeção, caindo o padrão do navio.
+O mais importante é criar o hábito de **seguir todas as regras** e **não se deixar “relaxar” após a inspeção**, caindo o padrão do navio.
 
 ## O que acontece na inspeção
 
-O inspetor geralmente segue uma rota recomendada, mas isso não é uma regra. A inspeção abrange tanto a documentação quanto as operações e os equipamentos. Bombas, tubulações, equipamentos de combate a incêndio, de salvatagem, tanques, medidores de ulagem, tudo isso e muito mais. Os diários do passadiço e da máquina também são inspecionados.
+O inspetor geralmente segue uma rota recomendada, mas isso não é uma regra. A inspeção abrange tanto a **documentação** quanto as **operações** e os **equipamentos**. Bombas, tubulações, equipamentos de combate a incêndio, de salvatagem, tanques, medidores de ulagem, tudo isso e muito mais. Os diários do passadiço e da máquina também são inspecionados.
 
-É muito importante prestar atenção nos detalhes. Um ponto de ferrugem aqui, um pequeno cabo solto ali, uma boia sem marcação, testes não registrados nos Diários, pequenos procedimentos incorretos durante a operação. Tudo isso são observações em potencial e deve ser evitado.
+É muito importante prestar **atenção nos detalhes**. Um ponto de ferrugem aqui, um pequeno cabo solto ali, uma bóia sem marcação, testes não registrados nos Diários, pequenos procedimentos incorretos durante a operação. Tudo isso são observações em potencial e deve ser evitado.
 
-O Vetting Inspector também pode fazer perguntas para os tripulantes. Um exemplo real disso: Ao analisar o livro de GMDSS (Global Maritime Distress and Safety System) e ver os testes semanais do MF/HF o inspetor perguntou ao Oficial responsável o que ele fazia quando não obtia resposta no teste, no que prontamente o piloto respondeu que tentava com outras estações, sendo de terra ou navios, até conseguir uma resposta. A resposta deixou o inspetor satisfeito.
+O _Vetting Inspector_ também pode fazer **perguntas para os tripulantes**. Um exemplo real disso: Ao analisar o livro de GMDSS (Global Maritime Distress and Safety System) e ver os testes semanais do MF/HF o inspetor perguntou ao Oficial responsável o que ele fazia quando não obtia resposta no teste, no que prontamente o piloto respondeu que tentava com outras estações, sendo de terra ou navios, até conseguir uma resposta. A resposta deixou o inspetor satisfeito.
 
-Nesse caso, o Oficial só pôde responder precisa e prontamente porque esse procedimento, correto, se tornou um hábito, já que ele realmente o segue todas as semanas. Daí a importância de estar sempre preparado. Talvez, se ele não soubesse tão bem o trabalho dele ou não tivesse o costume de agir dessa maneira, ele responderia de outra maneira, até mesmo errada ou demonstraria dúvidas em relação a sua função, o que não é o ideal.
+Nesse caso, o Oficial só pôde responder precisa e prontamente porque esse **procedimento correto**, se tornou um **hábito**, já que ele realmente o segue todas as semanas. Daí a importância de **estar sempre preparado**. Talvez, se ele não soubesse tão bem o trabalho dele ou não tivesse o costume de agir dessa maneira, ele responderia de outra maneira, até mesmo errada ou demonstraria dúvidas em relação a sua função, o que não é o ideal.
 
 ## Nem tudo depende da tripulação
 
-Como o foco deste artigo esteve quase inteiramente na tripulação achei relevante esclarecer que nem tudo depende dos tripulantes. A equipe administrativa de terra também tem o seu papel, principalmente no que tange a documentação e certificação, manutenção e suprimentos do navio.
+Como o foco deste artigo esteve quase inteiramente na tripulação, achei relevante esclarecer que** nem tudo depende dos tripulantes**. A **equipe administrativa de terra também tem o seu papel**, principalmente no que tange à **documentação e certificação, manutenção e suprimentos do navio**.
 
-É muito importante que as equipes de bordo e terra sempre trabalhem em conjunto para que se facilite a resolução de eventuais problemas e para que se mantenha o alto padrão operacional nas embarcações.
+É muito importante que as **equipes de bordo e terra sempre trabalhem em conjunto** para que se facilite a resolução de eventuais problemas e para que se mantenha o **alto padrão operacional** nas embarcações.
 
 # Conclusão
 
-A Vetting Inspection sempre traz uma certa apreensão para a tripulação, estando preparada ou não. Não é por menos, já que, como foi dito anteriormente, o objetivo é avaliar as condições do navio para que a Produtora tome a decisão de vetar ou aprovar o contrato do navio.
+A _Vetting Inspection_ sempre traz uma certa **apreensão** para a tripulação, estando preparada ou não. Não é por menos, já que, como foi dito anteriormente, o objetivo é **avaliar as condições do navio** para que a Produtora tome a decisão de vetar ou aprovar o contrato do navio.
 
-Porém, se a preparação é feita seguindo as regras da OCIMF e de maneira regular, durante todo o decorrer do ano, não há com o que se preocupar.
+Porém, se a preparação é feita **seguindo as regras da OCIMF e de maneira regular**, durante todo o decorrer do ano, **não há com o que se preocupar**.
 
-O que podemos tirar disso tudo é que não há nenhum segredo. A OCIMF divulga amplamente para as embarcações os seus requisitos e regras e tanto a equipe de terra quanto a de bordo têm acesso fácil a essas informações, portanto, a única açâo lógica é aprendê-las e segui-las para assim ter inspeções tranquilas e positivas.
+O que podemos tirar disso tudo é que **não há nenhum segredo**. A **OCIMF divulga amplamente** para as embarcações os **seus requisitos e regras** e tanto a **equipe de terra quanto a de bordo têm acesso fácil a essas informações**. Portanto, a única ação lógica é **aprendê-las e segui-las** para assim ter **inspeções tranquilas e positivas**.
+
+Almeida
+
+Segundo Oficial de Náutica e Cofundador da Rádio Cipó
