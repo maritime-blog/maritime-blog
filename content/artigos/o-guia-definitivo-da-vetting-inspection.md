@@ -14,49 +14,46 @@ tags:
   - OCIMF
   - ISGOTT
   - VIQ
+  - SIRE
 categories:
   - Conteúdo Técnico
 banner: /img/banners/ing_19064_06416.jpg
 ---
-Se voce trabalha em um navio petroleiro, gaseiro ou químico há pelo menos 6 meses é quase certo de ter passado por uma Vetting Inspection. Como eu mesmo passei por uma alguns dias atrás, resolvi escrever este artigo para compartilhar o que eu aprendi sobre o assunto.
+Se você trabalha em um navio petroleiro, gaseiro ou químico há pelo menos 6 meses, é quase certo de ter passado por uma _**Vetting Inspection**_. Como eu mesmo passei por uma alguns dias atrás, resolvi escrever este artigo para compartilhar o que eu aprendi sobre o assunto.
 
-Neste texto você irá aprender quem são os envolvidos na Vetting, o que é cobrado e baseado em que regras, o que a tripulação pode fazer para ter um bom resultado e como são as inspeções, em geral.
+Neste texto você irá aprender **quem são os envolvidos na _Vetting_**, **o que é cobrado** e **baseado em que regras**, o que a **tripulação pode fazer** para ter um **bom resultado** e como são as **inspeções**, em geral.
 
-Ao escrevê-lo tive o prazer de contar com a ajuda do Comandante Jurandi, Vetting Inspector muitíssimo experiente que se mostrou mais do que disposto a apoiar a Rádio Cipó nesse texto esclarecendo muitas das nossas dúvidas.
+Ao escrevê-lo tive o prazer de contar com a ajuda do **Comandante Jurandi**, _Vetting Inspector,_ muitíssimo experiente e que se mostrou mais do que disposto a apoiar a Rádio Cipó nesse texto, esclarecendo muitas das nossas dúvidas.
 
-# Entidades envolvidas
+# Entidades envolvidas:
 
-Antes de qualquer coisa, para facilitar o entendimento, essas são as entidades envolvidas no processo da Vetting Inspection:
+Antes de qualquer coisa, para facilitar o entendimento, essas são as entidades envolvidas no processo da _Vetting Inspection_:
 
-## Empresa produtora de petróleo, gás ou produtos químicos
+* ## Empresa produtora de petróleo, gás ou produtos químicos
 
-Esta é a empresa que solicita que a Vetting Inspection seja realizada em um dos navios contratados por ela. Para solicitar a Vetting ela deve participar da OCIMF. Será referida como Produtora neste artigo.
+Esta é a **empresa que solicita** que a _Vetting Inspection_ seja realizada em um dos navios contratados por ela. Para solicitar a _Vetting_ ela deve **participar da OCIMF**. Será referida como **Produtora** neste artigo.
 
-## OCIMF (Oil Company International Marine Forum)
+* ## OCIMF (Oil Company International Marine Forum)
 
-É um fórum de empresas produtoras de petróleo, produtos químicos e gás do mundo todo. Atualmente são por volta de 97. Essas companhias se uniram com o objetivo de padronizar as regras e exigências relacionadas as operações, otimizando os processos de inspeção e as proprias operações em si.
+É um **fórum de empresas produtoras de petróleo, produtos químicos e gás** do mundo todo. Atualmente são por volta de 97. Essas companhias se uniram com o objetivo de **padronizar as regras e exigências** relacionadas as operações, otimizando os processos de inspeção e as próprias operações em si.
 
-Essas imposições não têm valor legal, mas se tornaram regra comum no mercado e são seguidas pelas empresas de transporte. As empresas transportadoras não são participantes da OCIMF, elas apenas seguem as regras impostas.
+Essas imposições **não têm valor legal**, mas **se tornaram regra comum** no mercado e **são seguidas pelas empresas de transporte**. As empresas transportadoras não são participantes da OCIMF, elas apenas seguem as regras impostas.
 
-## Vetting Inspector
+* ## Vetting Inspector
 
-Inspetor acreditado pela OCIMF podendo assim realizar as Vetting Inspections de acordo com o programa SIRE (Ship Inspection Report Programme, que é o programa de inspeção como um todo). Este inspetor pode ser independente, o que possibilita que ele faça inspeções a pedido de várias empresas da OCIMF, ou pode ser contratado de uma empresa específica, tambem da OCIMF.
+Inspetor acreditado pela OCIMF, podendo assim, realizar as _Vetting Inspections_ de acordo com o programa SIRE (Ship Inspection Report Programme, que é o programa de inspeção como um todo). Este inspetor pode ser independente, o que possibilita que ele faça inspeções a pedido de várias empresas da OCIMF, ou pode ser contratado de uma empresa específica, tambem da OCIMF.
 
 O Vetting inspector deve atender certos requisitos, como:
 
- Ser Comandante ou Chefe de Máquinas com pelo menos 5 anos de experiência no tipo de navio (petroleiro, gaseiro e/ou químico) para o qual ele é acreditado;
-
- Passar pelo processo de acreditação (certificação) para se tornar inspetor;
-
- Ter conhecimento das diversas legislações envolvidas no transporte marítimo e nas operações a serem realizadas pelo navio inspecionado;
-
- e passar por Auditorias para verificar se os processos de inspeção estão sendo corretamente seguidos. Será referido como Inspetor neste artigo.
-
-## Empresa de transporte marítimo
+* Ser Comandante ou Chefe de Máquinas com pelo menos 5 anos de experiência no tipo de navio (petroleiro, gaseiro e/ou químico) para o qual ele é acreditado;
+* Passar pelo processo de acreditação (certificação) para se tornar inspetor;
+* Ter conhecimento das diversas legislações envolvidas no transporte marítimo e nas operações a serem realizadas pelo navio inspecionado;
+* e passar por Auditorias para verificar se os processos de inspeção estão sendo corretamente seguidos. Será referido como Inspetor neste artigo.
+* ## Empresa de transporte marítimo
 
 É a empresa armadora do navio que vai passar pela inspeção. É do interesse dela que o navio tenha um bom resultado para que este continue sendo atrativo para o mercado, por isso, as empresas de transporte de petróleo, gás e/ou produtos químicos sempre seguem as regras impostas pela OCIMF. Será referida como Armadora neste artigo.
 
-## Navio
+* ## Navio
 
 Passa pela inspeção e procura atender todos os requisitos da OCIMF.
 
