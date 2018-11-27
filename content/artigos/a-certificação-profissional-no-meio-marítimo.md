@@ -18,23 +18,20 @@ tags:
   - EPM
   - ENSINO
   - MARÍTIMO
+  - DOCUMENTAÇÃO
 categories:
   - Conteúdo Técnico
 banner: /img/banners/1034.jpg
 ---
-A CERTIFICAÇÃO PROFISSIONAL NO MEIO MARÍTIMO
+Este será o primeiro de uma **série de artigos** que tratará sobre a Certificação profissional no meio marítimo. Começaremos com um artigo sobre a e**xecução do Ensino Profissional Marítimo (EPM)**, aquele destinado a **habilitar e qualificar os profissionais da Marinha Mercante e atividades correlatas**. O EPM é **gerido pela Diretoria de Portos e Costas (DPC)** e é **regulamentado pela Norma da Autoridade Marítima nº 30 (NORMAM 30)**.
 
+Certificação ainda é um assunto que **gera muitas dúvidas** no meio marítimo, principalmente por causa das **alterações** da legislação nos últimos anos, em especial à introdução das **Emendas de Manila (2010) à Convenção Internacional sobre Padrões de Instrução, Certificação e Serviço de Quarto para Marítimos (STCW-78)**, que entrou em vigor em **julho de 2017**.
 
+À **sistemática** e à **estrutura** do EPM, que abrangem recursos humanos, financeiros, organizacionais e instrucionais, **dá-se o nome de Sistema do Ensino Profissional Marítimo (SEPM)**.
 
-\    Este será o primeiro de uma série de artigos que tratará sobre a Certificação profissional no meio marítimo. Começaremos com um artigo sobre a execução do Ensino Profissional Marítimo (EPM), aquele destinado a habilitar e qualificar os profissionais da Marinha Mercante e atividades correlatas. O EPM é gerido pela Diretoria de Portos e Costas (DPC) e é regulamentado pela Norma da Autoridade Marítima nº 30 (NORMAM 30).
+Neste sistema, a **DPC atua como Órgão Central (OC)**, exercendo a **orientação normativa e a supervisão técnica** dos demais órgãos do SEPM. Já os centros de instrução, **CIAGA e CIABA, e as Capitanias dos Portos, atuam como Órgãos Executores (OE)**, ou seja, são os locais **onde são realizados os cursos** do EPM. Existem também os **Órgãos de Apoio (Bases Navais, Escolas de Aprendizes-Marinheiros,...), que podem auxiliar, **por exemplo, **cedendo espaço para realização de exames de seleção**. Há ainda a possibilidade da **inserção de Entidades Extra-MB, caso sejam aprovadas para ministrar cursos do EPM de forma complementar**.
 
-\    Certificação ainda é um assunto que gera muitas dúvidas no meio marítimo, principalmente por causa das alterações da legislação nos últimos anos, em especial à introdução das Emendas de Manila (2010) à Convenção Internacional sobre Padrões de Instrução, Certificação e Serviço de Quarto para Marítimos (STCW-78), que entrou em vigor em julho de 2017.
-
-\    À sistemática e à estrutura do EPM, que abrangem recursos humanos, financeiros, organizacionais e instrucionais, dá-se o nome de Sistema do Ensino Profissional Marítimo (SEPM).
-
-\    Neste sistema, a DPC atua como Órgão Central (OC), exercendo a orientação normativa e a supervisão técnica dos demais órgãos do SEPM. Já os centros de instrução, CIAGA e CIABA, e as Capitanias dos Portos, atuam como Órgãos Executores (OE), ou seja, são os locais onde são realizados os cursos do EPM. Existem também os Órgãos de Apoio (Bases Navais, Escolas de Aprendizes-Marinheiros,...), que podem auxiliar, por exemplo, cedendo espaço para realização de exames de seleção. Há ainda a possibilidade da inserção de Entidades Extra-MB, caso sejam aprovadas para ministrar cursos do EPM de forma complementar.
-
-\    Os cursos do SEPM são organizados e divulgados previamente pela DPC através do Programa de Ensino Profissional Marítimo para Aquaviários – PREPOM, um documento que geralmente é aprovado e disponibilizado no início de cada ano. É através dele que a comunidade marítima – e os aquaviários, de um modo geral - tem a possibilidade de verificar quais cursos estarão disponíveis nos OE ao longo do ano. Além disso, constam também no PREPOM de forma detalhada as datas, a carga horária, o conteúdo programático e os critérios de seleção para cada um desses cursos.
+Os cursos do SEPM são organizados e divulgados previamente pela DPC através do Programa de Ensino Profissional Marítimo para Aquaviários – PREPOM, um documento que geralmente é aprovado e disponibilizado no início de cada ano. É através dele que a comunidade marítima – e os aquaviários, de um modo geral - tem a possibilidade de verificar quais cursos estarão disponíveis nos OE ao longo do ano. Além disso, constam também no PREPOM de forma detalhada as datas, a carga horária, o conteúdo programático e os critérios de seleção para cada um desses cursos.
 
 \    Os recursos financeiros para os cursos advêm do Fundo de Desenvolvimento do EPM (FDEPM), que, por sua vez, é oriundo da contribuição obrigatória por parte das empresas de navegação e de outros setores com atividades correlatas (serviços portuários, captura de pescado, dragagem, estaleiros,...). 
 
@@ -75,12 +72,6 @@ A CERTIFICAÇÃO PROFISSIONAL NO MEIO MARÍTIMO
 \    Aprofundaremos esse assunto no próximo artigo. Até breve!
 
 Stersi
-
-
-
-
-
-
 
 Referências:
 
