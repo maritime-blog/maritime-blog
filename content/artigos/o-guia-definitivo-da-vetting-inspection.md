@@ -39,77 +39,72 @@ Esta é a **empresa que solicita** que a _Vetting Inspection_ seja realizada em 
 
 Essas imposições **não têm valor legal**, mas **se tornaram regra comum** no mercado e **são seguidas pelas empresas de transporte**. As empresas transportadoras não são participantes da OCIMF, elas apenas seguem as regras impostas.
 
-* ## Vetting Inspector
+* ## _Vetting Inspector_
 
-Inspetor acreditado pela OCIMF, podendo assim, realizar as _Vetting Inspections_ de acordo com o programa SIRE (Ship Inspection Report Programme, que é o programa de inspeção como um todo). Este inspetor pode ser independente, o que possibilita que ele faça inspeções a pedido de várias empresas da OCIMF, ou pode ser contratado de uma empresa específica, tambem da OCIMF.
+Inspetor **acreditado pela OCIMF**, podendo assim, realizar as _Vetting Inspections_ **de acordo com o programa SIRE** (_Ship Inspection Report Programme_, que é o programa de inspeção como um todo). Este inspetor **pode ser independente**, o que possibilita que ele faça inspeções a pedido de **várias empresas** da OCIMF, ou pode ser contratado de uma empresa específica, também da OCIMF.
 
-O Vetting inspector deve atender certos requisitos, como:
+O_ Vetting Inspector_ deve atender certos **requisitos**, como:
 
-* Ser Comandante ou Chefe de Máquinas com pelo menos 5 anos de experiência no tipo de navio (petroleiro, gaseiro e/ou químico) para o qual ele é acreditado;
-* Passar pelo processo de acreditação (certificação) para se tornar inspetor;
-* Ter conhecimento das diversas legislações envolvidas no transporte marítimo e nas operações a serem realizadas pelo navio inspecionado;
-* e passar por Auditorias para verificar se os processos de inspeção estão sendo corretamente seguidos. Será referido como Inspetor neste artigo.
+* Ser Comandante ou Chefe de Máquinas com **pelo menos 5 anos de experiência **no tipo de navio (petroleiro, gaseiro e/ou químico) para o qual ele é acreditado;
+* Passar pelo processo de acreditação (**certificação**) para se tornar inspetor;
+* Ter **conhecimento das diversas legislações** envolvidas no transporte marítimo e nas operações a serem realizadas pelo navio inspecionado;
+* e **passar por Auditorias** para verificar se os processos de inspeção estão sendo corretamente seguidos. Será referido como **Inspetor** neste artigo.
 * ## Empresa de transporte marítimo
 
-É a empresa armadora do navio que vai passar pela inspeção. É do interesse dela que o navio tenha um bom resultado para que este continue sendo atrativo para o mercado, por isso, as empresas de transporte de petróleo, gás e/ou produtos químicos sempre seguem as regras impostas pela OCIMF. Será referida como Armadora neste artigo.
+É a empresa **armadora** do navio que vai passar pela inspeção. É do interesse dela que o **navio tenha um bom resultado** para que este continue sendo **atrativo para o mercado**. Por isso, as empresas de transporte de petróleo, gás e/ou produtos químicos sempre **seguem as regras impostas pela OCIMF**. Será referida como **Armadora** neste artigo.
 
 * ## Navio
 
-Passa pela inspeção e procura atender todos os requisitos da OCIMF.
+Passa pela inspeção e procura** atender todos os requisitos** da OCIMF.
 
-# O que é a Vetting?
+# O que é a _Vetting_?
 
-A Vetting Inspection é uma inspeção realizada pelo Vetting Inspector em um Navio da Armadora a pedido da Produtora. Esta inspeção é realizada para que se certifique que a embarcação está cumprindo os requisitos da OCIMF e da Produtora.
+A _Vetting Inspection_ é uma inspeção realizada pelo _Vetting Inspector_ em um Navio da Armadora a pedido da Produtora. Esta inspeção é realizada para que se certifique que a embarcação **está cumprindo os requisitos** da OCIMF e da Produtora.
 
 ## De onde vem o nome
 
-O nome Vetting vem da palavra “veto”, em inglês, ou seja, é uma inspeção cujo objetivo é colher informações de forma que a Produtora possa tomar a decisão de vetar ou aprovar a embarcação para assinar ou manter um contrato.
+O nome _Vetting_ vem da palavra “veto”, em inglês, ou seja, é uma inspeção cujo objetivo é colher informações de forma que a Produtora possa tomar a decisão de **vetar ou aprovar a embarcação para assinar ou manter um contrato**.
 
 ## Quais são os critérios
 
-O navio deve primeiramente seguir todas as convenções internacionais e nacionais relevantes. Porém, muitos dos requisitos da OCIMF vão além dessas legislações, pois alcançam o âmbito operacional o que nem sempre é prioridade nas regras impostas pela SOLAS (Safety of Life at Sea), MARPOL (Prevention of Maritime Pollution), etc.
+O navio deve primeiramente **seguir todas as convenções internacionais e nacionais** relevantes. Porém, muitos dos **requisitos da OCIMF vão além dessas legislações**, pois alcançam o **âmbito operacional** o que nem sempre é prioridade nas regras impostas pela SOLAS (Safety of Life at Sea), MARPOL (Prevention of Maritime Pollution), etc.
 
-A OCIMF pode muito bem cobrar que sejam adotados certos procedimentos que não são mencionados em nenhuma legislação, desde que essas ações não contrariem as convenções. Lembre-se de que as regras da OCIMF não têm o valor de leis.
+A OCIMF pode muito bem cobrar que sejam adotados certos **procedimentos que não são mencionados em nenhuma legislação**, desde que essas **ações não contrariem as convenções**. Lembre-se de que as regras da OCIMF **não têm o valor de leis**.
 
-Apesar disso, como todas as Produtoras exigem que os navios cumpram essas regras as imposições geralmente são cumpridas pelas Armadoras desde a construção dos navios.
+Apesar disso, como todas as Produtoras exigem que os navios cumpram essas regras, **as imposições geralmente são cumpridas** pelas Armadoras **desde a construção dos navios**.
 
 ## Qual é a frequência
 
-O comum hoje em dia é que os navios passem por uma Vetting Inspection no máximo a cada 6 meses. Isso se tornou padrão no mercado e as embarcações que passam por inspeções durante intervalos maiores geralmente perdem um pouco do valor de mercado.
+O comum hoje em dia é que os navios passem por uma Vetting Inspection **no máximo a cada 6 meses**. Isso se tornou **padrão **no mercado e as embarcações que passam por inspeções durante intervalos maiores, geralmente **perdem um pouco do valor de mercado**.
 
-A Armadora pode solicitar uma inspeção através de uma Produtora, podendo até mesmo ser uma Produtora diferente da que a contratou. (Ex.: A Armadora pode solicitar para a Shell que seja realizada uma Vetting Inspection em um navio com contrato com a Chevron).
+A Armadora pode solicitar uma **inspeção através de uma Produtora**, **podendo até mesmo ser uma Produtora diferente da que a contratou**. (Ex.: A Armadora pode solicitar para a Shell que seja realizada uma Vetting Inspection em um navio com contrato com a Chevron).
 
 ## Como ter um bom resultado na Vetting?
 
-O resultado da Vetting depende de um trabalho em equipe, não só da tripulação, mas também da Armadora. A questão mais importante é evitar a mentalidade de se preparar para uma inspeção e pensar em manter o navio em boas condições operacionais durante todo o tempo.
+O resultado da Vetting depende de um **trabalho em equipe, não só da tripulação, mas também da Armadora**. A questão mais importante é **evitar a mentalidade de se preparar para uma inspeção** e pensar em **manter o navio em boas condições operacionais durante todo o tempo**.
 
-Dito isso, ler, aprender e seguir as regras exigidas pela OCIMF é um ótimo caminho para atingir este objetivo.
+Dito isso, **ler, aprender e seguir as regras exigidas pela OCIMF** é um ótimo caminho para atingir este objetivo.
 
 ## Por onde se basear
 
-Assim como a IMO (International Maritime Organization) tem a SOLAS e outras convenções, a OCIMF possui as próprias regras, aqui estão algumas delas:
+Assim como a IMO (International Maritime Organization) tem a SOLAS e outras convenções, a** OCIMF possui as próprias regras**, aqui estão algumas delas:
 
 ## ISGOTT (International Safety Guide for Oil Tankers and Terminals)
 
-É simplesmente a bíblia dos navios-tanque. Essa publicação da OCIMF compreende todas as recomendações, que foram escritas baseadas em anos de testes, pesquisas e anedotas.
+É simplesmente a **bíblia dos navios-tanque**. Essa publicação da OCIMF compreende **todas as recomendações**, que foram escritas **baseadas em anos de testes, pesquisas e anedotas**.
 
 ## VIQ (Vessel Inspection Questionnaires)
 
-É nada mais nada menos que o guia seguido pelo Inspetor para realizar a inspeção. Todas as inspeções são baseadas no VIQ, portanto os requisitos solicitados pela OCIMF podem ser encontrados aqui, o que torna esta publicação uma excelente fonte de pesquisa.
+É nada mais nada menos que o **guia seguido pelo Inspetor para realizar a inspeção**. Todas as **inspeções são baseadas no VIQ**, portanto os requisitos solicitados pela OCIMF podem ser encontrados aqui, o que torna esta publicação uma **excelente fonte de pesquisa**.
 
 Outras publicações relevantes da OCIMF:
 
- A Guide to the Vetting Process;
-
- Tanker Management and Self Assessment;
-
- Anchoring Systems and Procedures;
-
- Recommendations for Oil and Chemical Tanker Manifolds;
-
- Ship to Ship Transfer Guide for Petroleum, Chemicals and Liquefied Gases; e
-
- MEG (Mooring Equipments Guidelines).
+* _A Guide to the Vetting Process;_
+* _Tanker Management and Self Assessment;_
+* _Anchoring Systems and Procedures;_
+* _Recommendations for Oil and Chemical Tanker Manifolds;_
+* _Ship to Ship Transfer Guide for Petroleum, Chemicals and Liquefied Gases; e_
+* _MEG (Mooring Equipments Guidelines)._
 
 ## Como se preparar
 
