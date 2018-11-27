@@ -2,7 +2,7 @@
 title: >-
   Escada de portaló: verifique se o seu navio está de acordo com as
   recomendações e práticas internacionais.
-date: '2018-11-27T11:23:21-02:00'
+date: '2018-11-27T09:00:00-02:00'
 tags:
   - BORDO
   - EMBARQUE
