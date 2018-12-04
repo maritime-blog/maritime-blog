@@ -19,7 +19,7 @@ categories:
   - Conteúdo Técnico
 banner: /img/banners/ing_19064_06416.jpg
 ---
-Se você trabalha em um navio petroleiro, gaseiro ou químico há pelo menos 6 meses, é quase certo de ter passado por uma **_Vetting Inspection_**. Como eu mesmo passei por uma alguns dias atrás, resolvi escrever este artigo para compartilhar o que eu aprendi sobre o assunto.
+Se você trabalha em um navio petroleiro, gaseiro ou químico há pelo menos 6 meses, é quase certo de ter passado por uma _**Vetting Inspection**_. Como eu mesmo passei por uma alguns dias atrás, resolvi escrever este artigo para compartilhar o que eu aprendi sobre o assunto.
 
 Neste texto você irá aprender **quem são os envolvidos na _Vetting_**, **o que é cobrado** e **baseado em que regras**, o que a **tripulação pode fazer** para ter um **bom resultado** e como são as **inspeções**, em geral.
 
@@ -43,13 +43,13 @@ Essas imposições **não têm valor legal**, mas **se tornaram regra comum** no
 
 Inspetor **acreditado pela OCIMF**, podendo assim, realizar as _Vetting Inspections_ **de acordo com o programa SIRE** (_Ship Inspection Report Programme_, que é o programa de inspeção como um todo). Este inspetor **pode ser independente**, o que possibilita que ele faça inspeções a pedido de **várias empresas** da OCIMF, ou pode ser contratado de uma empresa específica, também da OCIMF.
 
-O_ Vetting Inspector_ deve atender certos **requisitos**, como:
+O _Vetting Inspector_ deve atender certos **requisitos**, como:
 
-* Ser Comandante ou Chefe de Máquinas com **pelo menos 5 anos de experiência **no tipo de navio (petroleiro, gaseiro e/ou químico) para o qual ele é acreditado;
+* Ser Comandante ou Chefe de Máquinas com **pelo menos 5 anos de experiência** no tipo de navio (petroleiro, gaseiro e/ou químico) para o qual ele é acreditado;
 * Passar pelo processo de acreditação (**certificação**) para se tornar inspetor;
 * Ter **conhecimento das diversas legislações** envolvidas no transporte marítimo e nas operações a serem realizadas pelo navio inspecionado;
 * e **passar por Auditorias** para verificar se os processos de inspeção estão sendo corretamente seguidos. Será referido como **Inspetor** neste artigo.
-* ## Empresa de transporte marítimo
+* Empresa de transporte marítimo
 
 É a empresa **armadora** do navio que vai passar pela inspeção. É do interesse dela que o **navio tenha um bom resultado** para que este continue sendo **atrativo para o mercado**. Por isso, as empresas de transporte de petróleo, gás e/ou produtos químicos sempre **seguem as regras impostas pela OCIMF**. Será referida como **Armadora** neste artigo.
 
@@ -75,7 +75,7 @@ Apesar disso, como todas as Produtoras exigem que os navios cumpram essas regras
 
 ## Qual é a frequência
 
-O comum hoje em dia é que os navios passem por uma Vetting Inspection **no máximo a cada 6 meses**. Isso se tornou **padrão **no mercado e as embarcações que passam por inspeções durante intervalos maiores, geralmente **perdem um pouco do valor de mercado**.
+O comum hoje em dia é que os navios passem por uma Vetting Inspection **no máximo a cada 6 meses**. Isso se tornou **padrão** no mercado e as embarcações que passam por inspeções durante intervalos maiores, geralmente **perdem um pouco do valor de mercado**.
 
 A Armadora pode solicitar uma **inspeção através de uma Produtora**, **podendo até mesmo ser uma Produtora diferente da que a contratou**. (Ex.: A Armadora pode solicitar para a Shell que seja realizada uma Vetting Inspection em um navio com contrato com a Chevron).
 
@@ -87,7 +87,7 @@ Dito isso, **ler, aprender e seguir as regras exigidas pela OCIMF** é um ótimo
 
 ## Por onde se basear
 
-Assim como a IMO (International Maritime Organization) tem a SOLAS e outras convenções, a** OCIMF possui as próprias regras**, aqui estão algumas delas:
+Assim como a IMO (International Maritime Organization) tem a SOLAS e outras convenções, **a OCIMF possui as próprias regras**, aqui estão algumas delas:
 
 ## ISGOTT (International Safety Guide for Oil Tankers and Terminals)
 
@@ -128,7 +128,7 @@ Nesse caso, o Oficial só pôde responder precisa e prontamente porque esse **pr
 
 ## Nem tudo depende da tripulação
 
-Como o foco deste artigo esteve quase inteiramente na tripulação, achei relevante esclarecer que** nem tudo depende dos tripulantes**. A **equipe administrativa de terra também tem o seu papel**, principalmente no que tange à **documentação e certificação, manutenção e suprimentos do navio**.
+Como o foco deste artigo esteve quase inteiramente na tripulação, achei relevante esclarecer que **nem tudo depende dos tripulantes**. A **equipe administrativa de terra também tem o seu papel**, principalmente no que tange à **documentação e certificação, manutenção e suprimentos do navio**.
 
 É muito importante que as **equipes de bordo e terra sempre trabalhem em conjunto** para que se facilite a resolução de eventuais problemas e para que se mantenha o **alto padrão operacional** nas embarcações.
 
