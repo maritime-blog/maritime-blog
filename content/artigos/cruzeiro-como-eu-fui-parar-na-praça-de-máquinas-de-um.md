@@ -1,5 +1,5 @@
 ---
-title: 'CRUZEIRO: COMO EU FUI PARAR NA PRAÇA DE MÁQUINAS DE UM'
+title: 'Cruzeiro: Como eu fui parar na praça de máquinas de um'
 date: '2019-08-13T22:48:21-03:00'
 tags:
   - BORDO
