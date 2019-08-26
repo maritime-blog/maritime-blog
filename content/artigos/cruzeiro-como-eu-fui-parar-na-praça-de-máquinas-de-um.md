@@ -15,6 +15,8 @@ categories:
   - Curiosidades
 banner: /img/banners/costabile-banner.jpg
 ---
+![cruzeiro](/img/banners/img_0239.jpg)
+
 # Introdução
 
 Se você é um Marítimo Raiz, aquele que busca desvendar todas as facetas da profissão e que realmente se imaginava viajando por cada canto desse mundo durante a nossa formação na admirável Escola de Marinha Mercante, com certeza, já se perguntou se **seria possível a carreira em navios de cruzeiro** e **como seria a vida a bordo** desse tipo de embarcação...
@@ -84,8 +86,6 @@ Mas lembre-se que todas as dicas dadas acima foram baseadas na minha experiênci
 **O que te impede de sair da sua zona de conforto e arriscar?** **Compartilhe conosco.** Tem alguma dúvida que não foi respondida aqui? O que você gostaria de saber sobre a vida de um oficial a bordo de um navio de cruzeiro? Comente aqui abaixo que responderei nos próximos artigos!
 
 Até lá!
-
-
 
 Juliana Costabile
 
