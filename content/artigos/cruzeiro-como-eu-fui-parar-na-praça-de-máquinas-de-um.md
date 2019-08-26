@@ -13,7 +13,7 @@ tags:
   - NAVIO DE CRUZEIRO
 categories:
   - Curiosidades
-banner: /img/banners/clouds-cruise-cruise-ship-813011.jpg
+banner: /img/banners/costabile-banner.jpg
 ---
 # Introdução
 
