@@ -15,8 +15,6 @@ categories:
   - Curiosidades
 banner: /img/banners/costabile-banner.jpg
 ---
-![cruzeiro](/img/banners/img_0239.jpg)
-
 # Introdução
 
 Se você é um Marítimo Raiz, aquele que busca desvendar todas as facetas da profissão e que realmente se imaginava viajando por cada canto desse mundo durante a nossa formação na admirável Escola de Marinha Mercante, com certeza, já se perguntou se **seria possível a carreira em navios de cruzeiro** e **como seria a vida a bordo** desse tipo de embarcação...
@@ -64,6 +62,8 @@ Pela minha experiência, a maior dificuldade é porque nós, Marítimos Brasilei
 Não pretendo ser clichê, mas **precisamos acreditar mais no nosso potencial e na qualidade da nossa formação!**
 
 Manter um bom formato de currículo, claro e sucinto, e acima de tudo, pesquisar e aplicar para as vagas contam muito para o sucesso. Nesse pouco mais de um ano em que trabalho na Carnival Cruise Lines, muitos colegas de profissão vieram a mim para tirar dúvidas sobre esse meio até então desconhecido. Dois desses colegas conseguiram efetivamente uma entrevista com grandes companhias de cruzeiros!
+
+![Juliana no cruzeiro](/img/banners/img_3642.jpg)
 
 # Como você fez seu caminho para trabalhar em Cruzeiro?
 
